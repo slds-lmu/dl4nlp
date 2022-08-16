@@ -1,6 +1,6 @@
 ---
 title: "Chapter 5.4: Initial Use of the Transformer"
-weight: 5001
+weight: 5004
 ---
 to be written
 
