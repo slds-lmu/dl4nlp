@@ -4,11 +4,17 @@ weight: 5003
 ---
 This chapter will explain the inner workings of the decoder part of the transformer, especially the subtleties of Masked Self Attention and the Cross-Attention between encoder and decoder.
 
+<!--more-->
+
 ### Concept 
 5 slides, 10 minutes
 
-<!--more
+<!--
+### Lecture video
+
 {{< video id="TfrSKiOecWI" >}}
+
+### Lecture Slides
 
 {{< pdfjs file="https://github.com/slds-lmu/lecture_i2ml/blob/master/slides-pdf/slides-basics-whatisml.pdf" >}}
 -->
