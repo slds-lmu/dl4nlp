@@ -1,8 +1,8 @@
 ---
-title: Deep Learning for Natural Language Processing (DL4NLP)
+title: Deep Learning for NLP (DL4NLP)
 ---
 
-This website offers an open and free introductory course on deep learning algorithms and popular architectures for contemporary Natural Language Processing research. The course is constructed holistically and as self-contained as possible, in order to cover most relevant architectures and application areas. tbc
+This website offers an open and free introductory course on deep learning algorithms and popular architectures for contemporary Natural Language Processing (NLP) research. The course is constructed holistically and as self-contained as possible, in order to cover most relevant architectures and application areas. tbc
 
 It can either be taken as a graduate-level course for Master's level students at LMU and Uni Wien.
 
