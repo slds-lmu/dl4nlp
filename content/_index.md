@@ -17,4 +17,6 @@ What this course does not cover - in order to not have its scope grow completely
 
 The course material is developed in a public github repository: https://github.com/slds-lmu/lecture_dl4nlp. You can find the changelog at: https://github.com/slds-lmu/lecture_dl4nlp/blob/master/CHANGELOG.md.
 
-If you love teaching ML and have free resources available, please consider joining the team and email us now! (matthias@stat.uni-muenchen.de, weissweiler@cis.lmu.de or andreas.stephan@univie.ac.at)
+If you love teaching ML and have free resources available, please consider joining the team and email us now!  
+(LMU: matthias@stat.uni-muenchen.de or weissweiler@cis.lmu.de;  
+Uni Wien: andreas.stephan@univie.ac.at or erion.cano@univie.ac.at)
