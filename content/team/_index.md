@@ -1,4 +1,4 @@
-# Team (in alphabetical order)
+# Team
 
 - ![](https://www.slds.stat.uni-muenchen.de/images/bernd.jpg) [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/)
   wrote the initial version of most of the course material, and teaches various master courses in ML and DL at the LMU for stats and data science.
@@ -17,10 +17,10 @@
 ## Contributors welcome
 
 __If you love teaching ML and have free resources available, please consider joining the team and email us now!  
-(LMU: matthias@stat.uni-muenchen.de or weissweiler@cis.lmu.de;  
+(LMU: matthias@stat.uni-muenchen.de or weissweiler@cis.lmu.de;
 Uni Wien: andreas.stephan@univie.ac.at or erion.cano@univie.ac.at)__
 
-Our contributing guidelines may be found [here](https://github.com/slds-lmu/lecture_dl4nlp/blob/master/CONTRIBUTING.md).
+Our contributing guidelines may be found [here](https://github.com/slds-lmu/lecture_i2ml/blob/master/CONTRIBUTING.md).
 
 
 ## License
