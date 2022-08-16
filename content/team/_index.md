@@ -2,7 +2,7 @@
 
 - ![](https://www.slds.stat.uni-muenchen.de/images/assenmacher.png) [Matthias Aßenmacher](https://www.compstat.statistik.uni-muenchen.de/people/assenmacher/) 
 - ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Erion Cano](https://dm.cs.univie.ac.at/team/person/114494/)
-- ![]([https://avatars.githubusercontent.com/u/20367117?v=4](https://www.misoda.statistik.uni-muenchen.de/bilder/heumann.png)) [Christian Heumann]([https://www.compstat.statistik.uni-muenchen.de/people/schalk](https://www.misoda.statistik.uni-muenchen.de/personen/professoren/heumann/index.html))
+- ![](https://www.misoda.statistik.uni-muenchen.de/bilder/heumann.png) [Christian Heumann](https://www.misoda.statistik.uni-muenchen.de/personen/professoren/heumann/index.html)
 - ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Benjamin Roth](https://dm.cs.univie.ac.at/team/person/112089/)
 - ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Andreas Stephan](https://dm.cs.univie.ac.at/team/person/114424/)
 - ![](https://www.cis.uni-muenchen.de/~weissweiler/util/images/profile.jpg) [Leonie Weißweiler](https://www.cis.uni-muenchen.de/~weissweiler/)
