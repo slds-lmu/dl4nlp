@@ -1,6 +1,7 @@
 # Team (in alphabetical order)
 
-- ![](https://www.slds.stat.uni-muenchen.de/images/assenmacher.png) [Matthias Aßenmacher](https://www.compstat.statistik.uni-muenchen.de/people/assenmacher/) 
+- <img src="https://www.slds.stat.uni-muenchen.de/images/assenmacher.png"  width="300">
+- ![avatar](https://www.slds.stat.uni-muenchen.de/images/assenmacher.png) [Matthias Aßenmacher](https://www.compstat.statistik.uni-muenchen.de/people/assenmacher/) blablabla
 - ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Erion Cano](https://dm.cs.univie.ac.at/team/person/114494/)
 - ![](https://www.misoda.statistik.uni-muenchen.de/bilder/heumann.png) [Christian Heumann](https://www.misoda.statistik.uni-muenchen.de/personen/professoren/heumann/index.html)
 - ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Benjamin Roth](https://dm.cs.univie.ac.at/team/person/112089/)
