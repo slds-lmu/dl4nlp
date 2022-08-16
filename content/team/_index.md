@@ -6,11 +6,11 @@
   joined the team in summer 2020, held the classes in winter 2020/21, winter 2021/22 and is in charge of the classes held in summer 2022 at LMU Munich.
 - ![](https://www.misoda.statistik.uni-muenchen.de/bilder/heumann.png) [Christian Heumann](https://www.misoda.statistik.uni-muenchen.de/personen/professoren/heumann/index.html)
   joined the team in fall 2018 and contributed to the slides, videos and code demos.
-- ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Daniel Schalk](https://www.compstat.statistik.uni-muenchen.de/people/schalk)
+- ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Benjamin Roth](https://dm.cs.univie.ac.at/team/person/112089/)
   is a PhD at Bernd's group and organized the second round of the inverted classroom in spring 2019; he also provided the digital platform for videos, quizzes and exercises.
-- ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Tobias Pielok](https://www.slds.stat.uni-muenchen.de/people/pielok/)
+- ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Andreas Stephan](https://dm.cs.univie.ac.at/team/person/114424/)
   is a PhD at Bernd’s group and contributed to the code demos and exercises; he also presented the code demos at the classes held in spring 2020.
-- ![](https://www.cis.uni-muenchen.de/~weissweiler/util/images/profile.jpg) [Lisa Wimmer](https://www.slds.stat.uni-muenchen.de/people/wimmer/)
+- ![](https://www.cis.uni-muenchen.de/~weissweiler/util/images/profile.jpg) [Leonie Weißweiler](https://www.cis.uni-muenchen.de/~weissweiler/)
   is a PhD at Bernd’s group and contributed to slides and exercises.
 
 ## Contributors welcome
