@@ -14,15 +14,6 @@
   is a PhD at Bernd’s group and contributed to slides and exercises.
 
 
-## Current student assistants
-
-- none
-
-
-## Alumni
-
-- none
-
 ## Contributors welcome
 
 __If you love teaching ML and have free resources available, please consider joining the team and email us now!  
