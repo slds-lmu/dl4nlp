@@ -49,8 +49,8 @@ unsafe= true
     name = "Main Course Website"
     url = "."
   [[menu.footer]]
-    name = "Course content"
-    url = "https://github.com/compstat-lmu/website_template"
+    name = "Material Source Code"
+    url = "https://github.com/compstat-lmu/lecture_dl4nlp"
   [[menu.footer]]
     name = "Website source code"
     url = "https://github.com/slds-lmu/dl4nlp"
