@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/dl4nlp/css/style.css">
 
 
-<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 5: Transformer</title>
+<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 5.2: Transformer Encoder</title>
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/dl4nlp/apple-touch-icon.png">
@@ -56,42 +56,49 @@
         
     </nav>
 </div><div id="content" class="container">
-<h1>Chapter 5: Transformer</h1>
+<h1>Chapter 5.2: Transformer Encoder</h1>
+<p>Since the initial use case was machine translation (cf. <a href="../05_04_use_case">Chapter 5.4</a>), the transformer is an encoder-decoder architecture.
+This chapter will explain the inner workings of the encoder part.</p>
+<h2 id="concept">Concept</h2>
+<p>10 slides, 15 minutes</p>
+<!--more
+<div class="embedded_video">
+  <iframe src="https://www.youtube-nocookie.com/embed/TfrSKiOecWI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
-<p><p>blabla</p>
-</p>
 
 
-<div class="chapter_overview">
-<ul class="list-unstyled">
+
+<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.9.359/build/pdf.min.js" integrity="sha256-hEmjt7z3bB53X/awJyV81gmBLpVw2mj7EsvoJelZWow=" crossorigin="anonymous"></script>
 
 
-<li>
-    <a class="title" href="/dl4nlp/chapters/05_transformer/05_01_bpe/">Chapter 5.1: Byte-Pair Encoding (BPE)</a>
-    
-      
-        <p>Understanding BPE is crucial for understanding the transformer architecture, since it is used to &amp;rsquo;learn&amp;rsquo; the vocabulary for the embedding layer.
-Instead of using a simple heuristic (characters or words), the tokens which constitute the vocabulary are formed base on the training corpus.
-Concept 3 slides, &#43; 1 slides w/ example of 2-3 steps of merging, 8 minutes
-References Gage (1994) Sennrich et al. (2016) </p>
-      
-      
-</li>
 
-<li>
-    <a class="title" href="/dl4nlp/chapters/05_transformer/05_02_encoder/">Chapter 5.2: Transformer Encoder</a>
-    
-      
-        <p>Since the initial use case was machine translation (cf. Chapter 5.4), the transformer is an encoder-decoder architecture. This chapter will explain the inner workings of the encoder part.
-Concept 10 slides, 15 minutes
-References Vaswani et al. (2017) </p>
-      
-      
-</li>
+
+  
+  
+  <a href="https://github.com/slds-lmu/lecture_i2ml/raw/master/slides-pdf/slides-basics-whatisml.pdf">
+    <button class="btn btn-primary" style="margin-bottom:3rem">
+      Download &raquo;slides-basics-whatisml.pdf&laquo;
+    </button>
+  </a>
+
+
+-->
+<h2 id="references">References</h2>
+<ul>
+<li><a href="%5Bhttps://www.derczynski.com/papers/archive/BPE_Gage.pdf%5D(https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)">Vaswani et al. (2017)</a></li>
+</ul>
+
+
+
+<ul class="section_skipper list-unstyled">
+
+  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/05_transformer/05_01_bpe/">&#xab; Chapter 5.1: Byte-Pair Encoding (BPE)</a></li>
 
 
 </ul>
-</div>
+
+
 
 
         </div><footer class="bg-light text-center text-lg-start fixed-bottom">
