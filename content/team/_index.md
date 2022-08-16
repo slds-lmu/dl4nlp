@@ -1,6 +1,6 @@
 # Team
 
-- ![](https://www.slds.stat.uni-muenchen.de/images/assenmacher.png) [Matthias Aßenmacher](https://www.compstat.statistik.uni-muenchen.de/people/assenmacher/)
+- ![](https://www.slds.stat.uni-muenchen.de/images/assenmacher.png) [Matthias Aßenmacher](https://www.slds.stat.uni-muenchen.de/people/assenmacher/)
   did blablabla and contributed blabla.
 - ![](https://www.slds.stat.uni-muenchen.de/images/ludwig.jpg) [Ludwig Bothmann](https://www.compstat.statistik.uni-muenchen.de/people/bothmann/)
   joined the team in summer 2020, held the classes in winter 2020/21, winter 2021/22 and is in charge of the classes held in summer 2022 at LMU Munich.
@@ -12,7 +12,6 @@
   is a PhD at Bernd’s group and contributed to the code demos and exercises; he also presented the code demos at the classes held in spring 2020.
 - ![](https://www.slds.stat.uni-muenchen.de/images/wimmer.jpg) [Lisa Wimmer](https://www.slds.stat.uni-muenchen.de/people/wimmer/)
   is a PhD at Bernd’s group and contributed to slides and exercises.
-
 
 ## Contributors welcome
 
