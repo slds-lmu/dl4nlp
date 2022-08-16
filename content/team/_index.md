@@ -1,7 +1,7 @@
 # Team
 
-- ![](https://www.slds.stat.uni-muenchen.de/images/bernd.jpg) [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/)
-  wrote the initial version of most of the course material, and teaches various master courses in ML and DL at the LMU for stats and data science.
+- ![](https://www.slds.stat.uni-muenchen.de/images/assenmacher.png) [Matthias Aßenmacher](https://www.compstat.statistik.uni-muenchen.de/people/assenmacher/)
+  did blablabla and contributed blabla.
 - ![](https://www.slds.stat.uni-muenchen.de/images/ludwig.jpg) [Ludwig Bothmann](https://www.compstat.statistik.uni-muenchen.de/people/bothmann/)
   joined the team in summer 2020, held the classes in winter 2020/21, winter 2021/22 and is in charge of the classes held in summer 2022 at LMU Munich.
 - ![](https://www.biostat.statistik.uni-muenchen.de/bilder/fscheipl.png) [Fabian Scheipl](https://www.biostat.statistik.uni-muenchen.de/personen/mitarbeiter/scheipl/index.html)
@@ -17,7 +17,7 @@
 ## Contributors welcome
 
 __If you love teaching ML and have free resources available, please consider joining the team and email us now!  
-(LMU: matthias@stat.uni-muenchen.de or weissweiler@cis.lmu.de;
+(LMU: matthias@stat.uni-muenchen.de or weissweiler@cis.lmu.de;  
 Uni Wien: andreas.stephan@univie.ac.at or erion.cano@univie.ac.at)__
 
 Our contributing guidelines may be found [here](https://github.com/slds-lmu/lecture_i2ml/blob/master/CONTRIBUTING.md).
