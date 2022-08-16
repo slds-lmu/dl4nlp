@@ -3,21 +3,21 @@
 - ![](https://www.slds.stat.uni-muenchen.de/images/assenmacher.png) [Matthias Aßenmacher](https://www.slds.stat.uni-muenchen.de/people/assenmacher/)
   did blablabla and contributed blabla blabla blabla blablablablablablablablablablablablablablablabla blabla.
 - ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Erion Cano](https://dm.cs.univie.ac.at/team/person/114494/)
-  joined the team in summer 2020, held the classes in winter 2020/21, winter 2021/22 and is in charge of the classes held in summer 2022 at LMU Munich.
+  did blablabla and contributed blabla blabla blabla blablablablablablablablablablablablablablablabla blabla.
 - ![](https://www.misoda.statistik.uni-muenchen.de/bilder/heumann.png) [Christian Heumann](https://www.misoda.statistik.uni-muenchen.de/personen/professoren/heumann/index.html)
-  joined the team in fall 2018 and contributed to the slides, videos and code demos.
+  did blablabla and contributed blabla blabla blabla blablablablablablablablablablablablablablablabla blabla.
 - ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Benjamin Roth](https://dm.cs.univie.ac.at/team/person/112089/)
-  is a PhD at Bernd's group and organized the second round of the inverted classroom in spring 2019; he also provided the digital platform for videos, quizzes and exercises.
+  did blablabla and contributed blabla blabla blabla blablablablablablablablablablablablablablablabla blabla.
 - ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Andreas Stephan](https://dm.cs.univie.ac.at/team/person/114424/)
-  is a PhD at Bernd’s group and contributed to the code demos and exercises; he also presented the code demos at the classes held in spring 2020.
+  did blablabla and contributed blabla blabla blabla blablablablablablablablablablablablablablablabla blabla.
 - ![](https://www.cis.uni-muenchen.de/~weissweiler/util/images/profile.jpg) [Leonie Weißweiler](https://www.cis.uni-muenchen.de/~weissweiler/)
-  is a PhD at Bernd’s group and contributed to slides and exercises.
+  did blablabla and contributed blabla blabla blabla blablablablablablablablablablablablablablablabla blabla.
 
 ## Contributors welcome
 
-__If you love teaching ML and have free resources available, please consider joining the team and email us now!  
-(LMU: matthias@stat.uni-muenchen.de or weissweiler@cis.lmu.de;  
-Uni Wien: andreas.stephan@univie.ac.at or erion.cano@univie.ac.at)__
+__If you want to contribute to this effort, please consider joining the team and email us now:__  
+- LMU: matthias@stat.uni-muenchen.de or weissweiler@cis.lmu.de
+- Univerity of Vienna: andreas.stephan@univie.ac.at or erion.cano@univie.ac.at
 
 Our contributing guidelines may be found [here](https://github.com/slds-lmu/lecture_i2ml/blob/master/CONTRIBUTING.md).
 
