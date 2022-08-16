@@ -1,6 +1,11 @@
 # Team
 
 - ![](https://www.slds.stat.uni-muenchen.de/images/assenmacher.png) [Matthias Aßenmacher](https://www.compstat.statistik.uni-muenchen.de/people/assenmacher/) blablabla
+- ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Erion Cano](https://dm.cs.univie.ac.at/team/person/114494/) blablabla
+- ![](https://www.misoda.statistik.uni-muenchen.de/bilder/heumann.png) [Christian Heumann](https://www.misoda.statistik.uni-muenchen.de/personen/professoren/heumann/index.html) blablabla
+- ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Benjamin Roth](https://dm.cs.univie.ac.at/team/person/112089/) blablabla
+- ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Andreas Stephan](https://dm.cs.univie.ac.at/team/person/114424/) blablabla
+- ![](https://www.cis.uni-muenchen.de/~weissweiler/util/images/profile.jpg) [Leonie Weißweiler](https://www.cis.uni-muenchen.de/~weissweiler/) blablabla
 - ![](https://www.slds.stat.uni-muenchen.de/images/bernd.jpg) [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/)
   wrote the initial version of most of the course material, and teaches various master courses in ML and DL at the LMU for stats and data science.
 - ![](https://www.slds.stat.uni-muenchen.de/images/ludwig.jpg) [Ludwig Bothmann](https://www.compstat.statistik.uni-muenchen.de/people/bothmann/)
@@ -13,6 +18,7 @@
   is a PhD at Bernd’s group and contributed to the code demos and exercises; he also presented the code demos at the classes held in spring 2020.
 - ![](https://www.slds.stat.uni-muenchen.de/images/wimmer.jpg) [Lisa Wimmer](https://www.slds.stat.uni-muenchen.de/people/wimmer/)
   is a PhD at Bernd’s group and contributed to slides and exercises.
+
 
 ## Current student assistants
 
