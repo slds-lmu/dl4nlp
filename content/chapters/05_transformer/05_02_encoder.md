@@ -5,11 +5,17 @@ weight: 5002
 Since the initial use case was machine translation (cf. [Chapter 5.4](../05_04_use_case)), the transformer is an encoder-decoder architecture.
 This chapter will explain the inner workings of the encoder part.
 
+<!--more-->
+
 ### Concept 
 10 slides, 15 minutes
 
-<!--more
+<!--
+### Lecture video
+
 {{< video id="TfrSKiOecWI" >}}
+
+### Lecture Slides
 
 {{< pdfjs file="https://github.com/slds-lmu/lecture_i2ml/blob/master/slides-pdf/slides-basics-whatisml.pdf" >}}
 -->
