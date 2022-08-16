@@ -22,4 +22,4 @@ This chapter will explain the inner workings of the encoder part.
 
 ### References 
 
-- [Vaswani et al. (2017)]([https://www.derczynski.com/papers/archive/BPE_Gage.pdf](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf))
+- [Vaswani et al. (2017)](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
