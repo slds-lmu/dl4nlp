@@ -1,4 +1,4 @@
-# Team (in alphabetical order)
+# Team
 
 - ![](https://www.slds.stat.uni-muenchen.de/images/assenmacher.png) [Matthias Aßenmacher](https://www.slds.stat.uni-muenchen.de/people/assenmacher/)
   did blablabla and contributed blabla blabla blabla blablablablablablablablablablablablablablablabla blabla.
