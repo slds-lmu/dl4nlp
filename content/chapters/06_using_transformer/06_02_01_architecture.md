@@ -2,7 +2,7 @@
 title: "Chapter 6.2.1: BERT - Architectural details"
 weight: 6021
 ---
-This chapter will explain the arcitectural details of BERT - from the (context-free) embedding layer until the final classification layer.
+This chapter will explain the architectural details of BERT - from the (context-free) embedding layer until the final classification layer.
 
 <!--more-->
 
