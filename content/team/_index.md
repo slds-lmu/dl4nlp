@@ -6,7 +6,7 @@
   is a Postdoc at Ben's group who joined the team in 2022 and contributed to restructuring and extending the course.
 - ![](https://www.misoda.statistik.uni-muenchen.de/bilder/heumann.png) [Christian Heumann](https://www.misoda.statistik.uni-muenchen.de/personen/professoren/heumann/index.html)
   is a Professor at the Department of Statistics at LMU. He is responsible for teaching the machine learning basics.
-- ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Benjamin Roth](https://dm.cs.univie.ac.at/team/person/112089/)
+- ![](https://www.benjaminroth.net/portrait_small.jpg) [Benjamin Roth](https://dm.cs.univie.ac.at/team/person/112089/)
   is a Professor at the Faculty of Computer Science at University of Vienna. He created the initial version of this course back in 2019.
 - ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Andreas Stephan](https://dm.cs.univie.ac.at/team/person/114424/)
   is a PhD student at Ben's group who joined the team in 2022 and contributed to restructuring and extending the course.
