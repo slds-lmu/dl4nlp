@@ -18,4 +18,4 @@ This chapter is about RoBERTa, an optimized version of the initial BERT architec
 
 ### References 
 
-- [Liu et al. (2018)](https://arxiv.org/pdf/1907.11692.pdf)
+- [Liu et al. (2019)](https://arxiv.org/pdf/1907.11692.pdf)
