@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4.2: Cross-lingual transfer"
+title: "Chapter 4.2.2: Cross-lingual transfer"
 weight: 4012
 ---
 blabla
