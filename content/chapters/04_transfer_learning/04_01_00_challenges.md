@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4.1: Challenges "
+title: "Chapter 4.1: Challenges"
 weight: 4010
 ---
 blabla
