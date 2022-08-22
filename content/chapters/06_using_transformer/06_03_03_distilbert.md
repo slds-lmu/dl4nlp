@@ -19,4 +19,6 @@ We will explain the process of model distillation itself as well as the created 
 
 ### References 
 
+- [Bucila et al. (2006)](http://www.niculescu-mizil.org/papers/rtpp364-bucila.rev2.pdf)
+- [Hinton et al. (2015)](https://arxiv.org/pdf/1503.02531.pdf)
 - [Sanh et al. (2019)](https://arxiv.org/pdf/1910.01108.pdf)
