@@ -2,7 +2,7 @@
 
 - ![](https://www.slds.stat.uni-muenchen.de/images/assenmacher.png) [Matthias Aßenmacher](https://www.slds.stat.uni-muenchen.de/people/assenmacher/)
   is a Postdoc at the Chair for Statistical Learning and Data Science at LMU. He extended Ben's initial course by creating most of the material on Transfer Learning, BERT and beyond. He is responsible for restructuring and extending the course, maintaining the website and the organization of the course at LMU.
-- ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Erion Cano](https://dm.cs.univie.ac.at/team/person/114494/)
+- ![](https://www.slds.stat.uni-muenchen.de/images/platzhalter2.png) [Erion Çano](https://dm.cs.univie.ac.at/team/person/114494/)
   is a Postdoc at Ben's group who joined the team in 2022 and contributed to restructuring and extending the course.
 - ![](https://www.misoda.statistik.uni-muenchen.de/bilder/heumann.png) [Christian Heumann](https://www.misoda.statistik.uni-muenchen.de/personen/professoren/heumann/index.html)
   is a Professor at the Department of Statistics at LMU. He is responsible for teaching the machine learning basics.
