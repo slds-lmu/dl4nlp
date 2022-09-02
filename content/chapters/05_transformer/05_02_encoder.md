@@ -8,17 +8,17 @@ This chapter will explain the inner workings of the encoder part.
 <!--more-->
 
 ### Concept 
-10 slides, 15 minutes
+19 slides, 30 minutes
 
 <!--
 ### Lecture video
 
 {{< video id="TfrSKiOecWI" >}}
+-->
 
 ### Lecture Slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2ml/blob/master/slides-pdf/slides-basics-whatisml.pdf" >}}
--->
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter5-transformer/slides-52-encoder.pdf" >}}
 
 ### References 
 
