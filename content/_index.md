@@ -16,5 +16,5 @@ Furthermore, please note: (1) This course is subject to continuous development, 
 The course material is developed in a public github repository: https://github.com/slds-lmu/lecture_dl4nlp, where you can also find [the changelog](https://github.com/slds-lmu/lecture_dl4nlp/blob/master/CHANGELOG.md) for the material.
 
 If you love teaching ML and have free resources available, please consider joining the team and email us now:
-- University of Munich: matthias@stat.uni-muenchen.de or weissweiler@cis.lmu.de;  
-- University of Vienna: andreas.stephan@univie.ac.at or erion.cano@univie.ac.at)
+- University of Munich: matthias@stat.uni-muenchen.de or weissweiler@cis.lmu.de
+- University of Vienna: andreas.stephan@univie.ac.at or erion.cano@univie.ac.at
