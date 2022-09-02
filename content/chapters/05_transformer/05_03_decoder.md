@@ -13,11 +13,11 @@ This chapter will explain the inner workings of the decoder part of the transfor
 ### Lecture video
 
 {{< video id="TfrSKiOecWI" >}}
+-->
 
 ### Lecture Slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2ml/blob/master/slides-pdf/slides-basics-whatisml.pdf" >}}
--->
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter5-transformer/slides-53-decoder.pdf" >}}
 
 ### References 
 
