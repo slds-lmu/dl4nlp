@@ -2,7 +2,9 @@
 title: "Chapter 5.5: Transformer-XL for long sequences"
 weight: 5005
 ---
-to be written
+The Transfomer-XL is motivated by the problem of modeling long sequences with the Transformer architecture. While the computational complexity of the Vanilla Transformer
+scales quadratically with the sequence length (and is this problematic), the authors here propose a segment recurrence mechanism to handle this problem efficiently.
+Further the introduce _relative_ positional encodings (as opposed to absolute ones in the Vanilla Tranformer) to make the segment recurrence work in a meaningful way.
 
 <!--more-->
 
