@@ -6,9 +6,6 @@ to be written
 
 <!--more-->
 
-### Concept 
-3 slides, 5 minutes
-
 <!--
 ### Lecture video
 
