@@ -7,9 +7,6 @@ This chapter will explain the inner workings of the encoder part.
 
 <!--more-->
 
-### Concept 
-19 slides, 30 minutes
-
 <!--
 ### Lecture video
 
