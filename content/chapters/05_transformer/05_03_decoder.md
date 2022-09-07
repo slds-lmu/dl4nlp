@@ -6,9 +6,6 @@ This chapter will explain the inner workings of the decoder part of the transfor
 
 <!--more-->
 
-### Concept 
-5 slides, 10 minutes
-
 <!--
 ### Lecture video
 
