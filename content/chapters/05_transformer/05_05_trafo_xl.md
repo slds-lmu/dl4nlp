@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5.5: Transformer-XL for long sequences"
+title: "Chapter 5.5: Transformer-XL"
 weight: 5005
 ---
 The Transfomer-XL is motivated by the problem of modeling long sequences with the Transformer architecture. While the computational complexity of the Vanilla Transformer
