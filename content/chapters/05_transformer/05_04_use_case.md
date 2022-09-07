@@ -2,7 +2,7 @@
 title: "Chapter 5.4: Initial Use of the Transformer"
 weight: 5004
 ---
-to be written
+In order to provide more context to get a better understanding of these model developments, we will quickly sketch the initial use of the Transformer for Machine Translation.
 
 <!--more-->
 
