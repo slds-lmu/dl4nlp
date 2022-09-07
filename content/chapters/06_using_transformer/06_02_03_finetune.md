@@ -6,15 +6,13 @@ This chapter will explain how BERT can be fine-tuned on a specific task using la
 
 <!--more-->
 
-### Concept 
-5 slides, 10 minutes
-
 <!--
 ### Lecture video
 {{< video id="TfrSKiOecWI" >}}
-### Lecture Slides
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2ml/blob/master/slides-pdf/slides-basics-whatisml.pdf" >}}
 -->
+
+### Lecture Slides
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-623-bert-finetune.pdf" >}}
 
 ### References 
 
