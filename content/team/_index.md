@@ -13,6 +13,11 @@
 - ![](https://www.cis.uni-muenchen.de/~weissweiler/util/images/profile.jpg) [Leonie Weißweiler](https://www.cis.uni-muenchen.de/~weissweiler/)
   is a PhD student at the Center for Imformation and Language Processing at LMU. She created the exercise sheets for the course. She is responsible for restructuring and extending the course as well as for the organization of the course at LMU.
 
+## Acknowledgements
+
+- Nina Poerner and Marina Speranskaya contributed to the course material up until the transformer, back in the days when Ben still taught this course at LMU.
+- Hinrich Schütze created much of the content GPT in the winter term 20/21.
+
 ## Contributors welcome
 
 __If you want to contribute to this effort, please consider joining the team and email us now:__  
