@@ -11,7 +11,10 @@ One general, important goal of the course - on top of clearly explaining the mos
 The course can be taken as a graduate-level course for Master's level students, both at the University of Munich (LMU) and at the University of Vienna.
 For the exact details, please refer to the corresponding moodle pages at either of the two universities.
 
-Furthermore, please note: (1) This course is subject to continuous development, so please consider it as "under construction". (2) The course structure as well as the slide sets for most sections will (hopefully) be done (in a preliminary version) by the beginning of the winter term 22/23. (3) We plan to also include lecture videos, quizzes, coding demos, and exercises with worked-out solutions to enable self-study as much as possible in the future. A next bigger iteration will most probably then happen after the winter term 22/23.
+Furthermore, please note:
+1. ⚠️ This course is subject to continuous development, so please consider it as 🛠 under construction 🛠.
+1. The course structure as well as the slide sets for most sections will (hopefully) be done (in a preliminary version) by the beginning of the winter term 22/23.
+1. We plan to also include lecture videos, quizzes, coding demos, and exercises with worked-out solutions to enable self-study as much as possible in the future. A next bigger iteration will most probably then happen after the winter term 22/23.
 
 The course material is developed in a public github repository: https://github.com/slds-lmu/lecture_dl4nlp, where you can also find [the changelog](https://github.com/slds-lmu/lecture_dl4nlp/blob/master/CHANGELOG.md) for the material.
 
