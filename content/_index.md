@@ -16,7 +16,7 @@ Furthermore, please note:
 1. The course structure as well as the slide sets for most sections will (hopefully) be done (in a preliminary version) by the beginning of the winter term 22/23.
 1. We plan to also include lecture videos, quizzes, coding demos, and exercises with worked-out solutions to enable self-study as much as possible in the future. A next bigger iteration will most probably then happen after the winter term 22/23.
 
-The course material is developed in a public github repository: https://github.com/slds-lmu/lecture_dl4nlp, where you can also find [the changelog](https://github.com/slds-lmu/lecture_dl4nlp/blob/master/CHANGELOG.md) for the material.
+The course material is developed in a public github repository: https://github.com/slds-lmu/lecture_dl4nlp, where you can also find [the changelog](https://github.com/slds-lmu/lecture_dl4nlp/blob/main/CHANGELOG.md) for the material.
 
 If you love teaching ML and have free resources available, please consider joining the team and email us now:
 - University of Munich: matthias@stat.uni-muenchen.de or weissweiler@cis.lmu.de
