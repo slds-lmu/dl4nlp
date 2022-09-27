@@ -45,14 +45,14 @@ unsafe= true
     url = "references/"
     weight = 3
 # can contain as main items as you want
-  [[menu.footer]] # name here does not matter
-    name = "Main Course Website"
-    url = "."
   [[menu.footer]]
     name = "Material Source Code"
     url = "https://github.com/slds-lmu/lecture_dl4nlp"
   [[menu.footer]]
     name = "Website source code"
     url = "https://github.com/slds-lmu/dl4nlp"
+  [[menu.footer]] # name here does not matter
+    name = "I2ML Course"
+    url = "https://slds-lmu.github.io/i2ml/"
 [minify] # needed for quizdown to work
   disableHTML = true
