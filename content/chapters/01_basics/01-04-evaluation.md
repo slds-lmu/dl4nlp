@@ -6,6 +6,4 @@ This chapter treats the challenge of evaluating the performance of a model. We w
 
 <!--more-->
 
-### Content
-
-[Content of this Chapter oon the I2ML homepage](https://slds-lmu.github.io/i2ml/chapters/04_evaluation/)
+### [Content of this Chapter on the I2ML homepage](https://slds-lmu.github.io/i2ml/chapters/04_evaluation/)

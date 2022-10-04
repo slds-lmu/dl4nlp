@@ -6,6 +6,4 @@ This chapter treats the supervised classification task in more detail. We will s
 
 <!--more-->
 
-### Content
-
-[Content of this Chapter oon the I2ML homepage](https://slds-lmu.github.io/i2ml/chapters/03_supervised_classification/)
+### [Content of this Chapter on the I2ML homepage](https://slds-lmu.github.io/i2ml/chapters/03_supervised_classification/)

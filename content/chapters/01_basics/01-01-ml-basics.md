@@ -6,6 +6,4 @@ This chapter introduces the basic concepts of Machine Learning. We focus on supe
 
 <!--more-->
 
-### Content
-
-[Content of this Chapter oon the I2ML homepage](https://slds-lmu.github.io/i2ml/chapters/01_ml_basics/)
+### [Content of this Chapter on the I2ML homepage](https://slds-lmu.github.io/i2ml/chapters/01_ml_basics/)
