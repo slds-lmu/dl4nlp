@@ -1,6 +1,6 @@
 ---
-title: "Chapter 4.1.4: Self-supervised pre-training"
-weight: 4014
+title: "Chapter 4.1: Challenges"
+weight: 4100
 ---
 blabla
 
