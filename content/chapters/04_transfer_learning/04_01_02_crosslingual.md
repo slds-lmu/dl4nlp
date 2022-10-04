@@ -1,6 +1,6 @@
 ---
-title: "Chapter 4.1.4: Self-supervised pre-training"
-weight: 4104
+title: "Chapter 4.2.2: Cross-lingual transfer"
+weight: 4012
 ---
 blabla
 

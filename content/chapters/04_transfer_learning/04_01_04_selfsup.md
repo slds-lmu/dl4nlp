@@ -1,6 +1,6 @@
 ---
-title: "Chapter 4.1.1: Low-resource environments"
-weight: 4101
+title: "Chapter 4.1.4: Self-supervised pre-training"
+weight: 4014
 ---
 blabla
 
