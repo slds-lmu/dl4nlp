@@ -1,5 +1,5 @@
 ---
-title: "Chapter 8.: Why Multilinguality?"
+title: "Chapter 8.1: Why Multilinguality?"
 weight: 8001
 ---
 
