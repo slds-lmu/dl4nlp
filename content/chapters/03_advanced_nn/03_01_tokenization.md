@@ -2,7 +2,7 @@
 title: "Chapter 3.1: (Advanced) Tokenization"
 weight: 3001
 ---
-tbd
+This chapter is about the different types of text tokenization used in NLP tasks.
 
 <!--more-->
 
@@ -16,4 +16,4 @@ tbd
 
 ### References 
 
-- tbd
+- [Webster J. J. and Kit C. (1992)](https://dl.acm.org/doi/10.3115/992424.992434)

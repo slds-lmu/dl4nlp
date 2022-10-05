@@ -2,7 +2,7 @@
 title: "Chapter 3.5: Attention"
 weight: 3005
 ---
-tbd
+This chapter is about attention mechanism and its application in neural networks.
 
 <!--more-->
 
@@ -16,4 +16,4 @@ tbd
 
 ### References 
 
-- tbd
+- [Vaswani et al. (2017)](https://arxiv.org/abs/1706.03762)
