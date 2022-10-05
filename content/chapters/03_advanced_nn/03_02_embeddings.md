@@ -2,7 +2,7 @@
 title: "Chapter 3.2: Word Embeddings"
 weight: 3002
 ---
-tbd
+This chapter is about the concept of word embeddings and the different methods for creating them.
 
 <!--more-->
 
@@ -16,4 +16,10 @@ tbd
 
 ### References 
 
-- tbd
+- [Mikolov et al. (2013)](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
+
+- [Pennington et al. (2014)](https://nlp.stanford.edu/pubs/glove.pdf)
+
+- [bojanowski et al. (2017)](https://arxiv.org/pdf/1607.04606.pdf)
+
+
