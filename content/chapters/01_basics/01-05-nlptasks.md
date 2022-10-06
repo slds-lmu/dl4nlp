@@ -1,6 +1,6 @@
 ---
-title: "Chapter 1.5: NLP tasks"
-weight: 1005
+title: "Chapter 1.6: NLP tasks"
+weight: 1006
 ---
 tbd
 

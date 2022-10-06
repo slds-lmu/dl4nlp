@@ -1,6 +1,6 @@
 ---
-title: "Chapter 1.6: Python"
-weight: 1006
+title: "Chapter 1.7: Python"
+weight: 1007
 ---
 tbd
 
