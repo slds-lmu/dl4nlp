@@ -12,7 +12,7 @@ This chapter will cover a set of transformer-decoder based archtiectures, first 
 -->
 
 ### Lecture Slides
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-644gpt2.pdf" >}}  
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-644-gpt2.pdf" >}}  
 {{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-645-xlnet.pdf" >}}  
 {{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-646-gpt3.pdf" >}}
 
