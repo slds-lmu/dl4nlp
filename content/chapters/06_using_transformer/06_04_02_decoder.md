@@ -3,7 +3,7 @@ title: "Chapter 6.4.2: Decoder architectures"
 weight: 6042
 ---
 This chapter will cover a set of transformer-decoder based archtiectures, first and foremost GPT's two successors and the XLNet architecture and its premutation language modeling objective.
----
+
 <!--more-->
 
 <!--
