@@ -6,16 +6,14 @@ blabla
 
 <!--more-->
 
-### Concept 
-5 slides, 10 minutes
-
 <!--
 ### Lecture video
 {{< video id="TfrSKiOecWI" >}}
-### Lecture Slides
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2ml/blob/master/slides-pdf/slides-basics-whatisml.pdf" >}}
 -->
+
+### Lecture Slides
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-640-postbert.pdf" >}}
 
 ### References 
 
-- 
+- tbd
