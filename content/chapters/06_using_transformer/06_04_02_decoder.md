@@ -3,18 +3,18 @@ title: "Chapter 6.4.2: Decoder architectures"
 weight: 6042
 ---
 This chapter will cover a set of transformer-decoder based archtiectures, first and foremost GPT's two successors and the XLNet architecture and its premutation language modeling objective.
-
+---
 <!--more-->
-
-### Concept 
-5 slides, 10 minutes
 
 <!--
 ### Lecture video
 {{< video id="TfrSKiOecWI" >}}
-### Lecture Slides
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2ml/blob/master/slides-pdf/slides-basics-whatisml.pdf" >}}
 -->
+
+### Lecture Slides
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-644gpt2.pdf" >}}  
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-645-xlnet.pdf" >}}  
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-646-gpt3.pdf" >}}
 
 ### References 
 
