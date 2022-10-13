@@ -1,4 +1,8 @@
 ---
 title: "Chapter 2: Deep Learning Basics"
 ---
-This chapter treats the supervised regression task in more detail. We will see different loss functions for regression, how a linear regression model can be used from a Machine Learning perspective, how to extend it with polynomials for greater flexibility and finally a fundamentally different approach - k-NN regression.
+This chapter gives a quick introduction to the basic concepts of deep learning, such as optimization, simple Feedforward networks, backpropagation and regularization. A comprehensive introduction is given in [1].
+
+### References 
+
+- [Goodfellow et al., 2016](https://www.deeplearningbook.org/)
