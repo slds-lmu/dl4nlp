@@ -2,7 +2,7 @@
 title: "Chapter 1.6: NLP tasks"
 weight: 1006
 ---
-tbd
+A first introduction to the different types of tasks which are tackled in NLP. Further, the GLUE benchmark is briefly introduced.
 
 <!--more-->
 
