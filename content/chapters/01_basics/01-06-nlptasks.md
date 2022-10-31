@@ -16,4 +16,4 @@ tbd
 
 ### References 
 
-- tbd
+- [Wang et al. (2018)](https://openreview.net/pdf?id=rJ4km2R5t7)
