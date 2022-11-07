@@ -1,8 +1,8 @@
 ---
-title: "Chapter 3.1: (Advanced) Tokenization"
+title: "Chapter 3.1: Tokenization"
 weight: 3001
 ---
-This chapter is about the different types of text tokenization used in NLP tasks.
+This chapter is about different (basic!) types of text tokenization used in NLP tasks.
 
 <!--more-->
 
