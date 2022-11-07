@@ -2,7 +2,7 @@
 title: "Chapter 3.5: Attention"
 weight: 3005
 ---
-This chapter is about attention mechanism and its application in neural networks.
+This chapter is about the attention mechanism and its application in (recurrent) neural networks.
 
 <!--more-->
 
