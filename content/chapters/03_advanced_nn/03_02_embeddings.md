@@ -20,6 +20,6 @@ This chapter is about the concept of word embeddings and the different methods f
 
 - [Pennington et al. (2014)](https://nlp.stanford.edu/pubs/glove.pdf)
 
-- [bojanowski et al. (2017)](https://arxiv.org/pdf/1607.04606.pdf)
+- [Bojanowski et al. (2017)](https://arxiv.org/pdf/1607.04606.pdf)
 
 
