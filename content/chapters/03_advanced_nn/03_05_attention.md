@@ -16,4 +16,4 @@ This chapter is about attention mechanism and its application in neural networks
 
 ### References 
 
-- [Vaswani et al. (2017)](https://arxiv.org/abs/1706.03762)
+- [Bahdanau et al. (2014)](https://arxiv.org/pdf/1409.0473.pdf)
