@@ -70,7 +70,7 @@
 
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_01_00_challenges/">Chapter 4.1: Challenges</a>
+    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_01_defs_challenges/">Chapter 4.1: Definitions and Challenges</a>
     
       
         <p>blabla
@@ -80,7 +80,7 @@
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_01_01_low_resource/">Chapter 4.1.1: Low-resource environments</a>
+    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_02_selfsup/">Chapter 4.1.4: Self-supervised pre-training</a>
     
       
         <p>blabla
@@ -90,7 +90,7 @@
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_01_02_crosslingual/">Chapter 4.2.2: Cross-lingual transfer</a>
+    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_03_datadriven/">Chapter 4.2: Data-driven tokenization</a>
     
       
         <p>blabla
@@ -100,57 +100,7 @@
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_01_03_tasks_datasets/">Chapter 4.1.3: Challenging tasks and data sets</a>
-    
-      
-        <p>blabla
-</p>
-      
-      
-</li>
-
-<li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_01_04_selfsup/">Chapter 4.1.4: Self-supervised pre-training</a>
-    
-      
-        <p>blabla
-</p>
-      
-      
-</li>
-
-<li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_02_00_datadriven/">Chapter 4.2: Data-driven tokenization</a>
-    
-      
-        <p>blabla
-</p>
-      
-      
-</li>
-
-<li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_02_01_wordpiece/">Chapter 4.2.1: WordPiece tokenization</a>
-    
-      
-        <p>blabla
-</p>
-      
-      
-</li>
-
-<li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_02_02_sentencepiece/">Chapter 4.2.2: SentencePiece</a>
-    
-      
-        <p>blabla
-</p>
-      
-      
-</li>
-
-<li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_03_00_early_transfer/">Chapter 4.3: Early Transfer Learning architectures</a>
+    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_04_00_early_transfer/">Chapter 4.3: Early Transfer Learning architectures</a>
     
       
         <p>Before the use of the Transformer architecture (cf. Chapter 5) for Transfer Learning, two milestone architectures were published.
@@ -160,7 +110,7 @@
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_03_01_elmo/">Chapter 4.3.1: ELMo</a>
+    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_04_01_elmo/">Chapter 4.3.1: ELMo</a>
     
       
         <p>In their paper Deep contextualized word representations, Peters et al. introduced a new class of word embeddings called ELMo (Embeddings from Language Models). Their unique feature is the ability to contextualize the embeddings in a bidirectional fashion (using biLSTMs), i.e. the representation of a word depends on the context on both sides. In order to obtain embeddings, whole sentences have to be fed to this architecture and the retrieved embeddings can then be used for a specific downstream task.
@@ -170,7 +120,7 @@
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_03_02_ulmfit/">Chapter 4.3.2: ULMFiT</a>
+    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_04_02_ulmfit/">Chapter 4.3.2: ULMFiT</a>
     
       
         <p>In contrast to ELMo, this architecture is not able to produce bidirectionally contextual embeddings but only unidirectionally contextual ones (since unidirectional LSTM are employed). Apart from this, is relies on a different transfer learning paradigm. Instead of &amp;ldquo;only&amp;rdquo; generating embedding which can be used for downstream tasks, the whole architecture is fine-tuned towards a specific task. Hence the name Universal Language Model Fine-Tuning (ULMFiT).

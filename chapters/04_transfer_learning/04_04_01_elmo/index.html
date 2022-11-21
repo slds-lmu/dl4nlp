@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/dl4nlp/css/style.css">
 
 
-<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 4.2: Data-driven tokenization</title>
+<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 4.3.1: ELMo</title>
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/dl4nlp/apple-touch-icon.png">
@@ -56,16 +56,17 @@
         
     </nav>
 </div><div id="content" class="container">
-<h1>Chapter 4.2: Data-driven tokenization</h1>
-<p>blabla</p>
-<h3 id="concept">Concept</h3>
+<h1>Chapter 4.3.1: ELMo</h1>
+<p>In their paper <em>Deep contextualized word representations</em>, Peters et al. introduced a new class of word embeddings called ELMo (<em>E</em>mbeddings from <em>L</em>anguage <em>Mo</em>dels).
+Their unique feature is the ability to contextualize the embeddings in a bidirectional fashion (using biLSTMs), i.e. the representation of a word depends on the context on both sides. In order to obtain embeddings, whole sentences have to be fed to this architecture and the retrieved embeddings can then be used for a specific downstream task.</p>
 <!--
 ### Lecture video
 <div class="embedded_video">
   <iframe src="https://www.youtube-nocookie.com/embed/TfrSKiOecWI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-### Lecture Slides
+-->
+<h3 id="lecture-slides">Lecture Slides</h3>
 
 
 <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.9.359/build/pdf.min.js" integrity="sha256-hEmjt7z3bB53X/awJyV81gmBLpVw2mj7EsvoJelZWow=" crossorigin="anonymous"></script>
@@ -75,26 +76,26 @@
 
   
   
-  <a href="https://github.com/slds-lmu/lecture_i2ml/raw/master/slides-pdf/slides-basics-whatisml.pdf">
+  <a href="https://github.com/slds-lmu/lecture_dl4nlp/raw/main/slides/chapter4-transferlearning/slides-431-elmo.pdf">
     <button class="btn btn-primary" style="margin-bottom:3rem">
-      Download &raquo;slides-basics-whatisml.pdf&laquo;
+      Download &raquo;slides-431-elmo.pdf&laquo;
     </button>
   </a>
 
 
--->
 <h3 id="references">References</h3>
 <ul>
-<li></li>
+<li><a href="https://aclanthology.org/N18-1202.pdf">Peters et al. (2018)</a></li>
+<li><a href="https://huggingface.co/allenai/bidaf-elmo">ELMo variant on huggingface</a></li>
 </ul>
 
 
 <ul class="section_skipper list-unstyled">
 
-  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/04_transfer_learning/04_01_04_selfsup/">&#xab; Chapter 4.1.4: Self-supervised pre-training</a></li>
+  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/04_transfer_learning/04_04_00_early_transfer/">&#xab; Chapter 4.3: Early Transfer Learning architectures</a></li>
 
 
-  <li id="prev_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/04_transfer_learning/04_02_01_wordpiece/">Chapter 4.2.1: WordPiece tokenization &#xbb;</a></li>
+  <li id="prev_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/04_transfer_learning/04_04_02_ulmfit/">Chapter 4.3.2: ULMFiT &#xbb;</a></li>
 
 </ul>
 
