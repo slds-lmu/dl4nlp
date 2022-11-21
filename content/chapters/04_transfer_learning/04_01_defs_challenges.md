@@ -2,7 +2,7 @@
 title: "Chapter 4.1: Definitions and Challenges"
 weight: 4010
 ---
-This chapter will explain the inner workings of the decoder part of the transformer, especially the subtleties of Masked Self Attention and the Cross-Attention between encoder and decoder.
+This chapter will explain the different paradigms which are commonly subsumed under the term Transfer Learning. It is important to be able to distinguish them from one another, since each one of them comes with its own challenges as well as its own use cases, where it is specifically useful.
 
 <!--more-->
 
