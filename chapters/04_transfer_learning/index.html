@@ -93,14 +93,14 @@
     <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_03_datadriven/">Chapter 4.3: Data-driven tokenization</a>
     
       
-        <p>Here we will introduce the concept of Self-Supervision, which is crucial for the current practice of Transfer Learning in NLP. It refers to a learning paradigm located somewhere between supervised and unsupervised learning, since it exhibits characterstics of both of them.
+        <p>Two of the three currently most frequently used data-driven tokenization algorithms will be introduced in this chapter. The remaining one, BPE, will be covered at the beginning of the next chapter.
 </p>
       
       
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_04_00_early_transfer/">Chapter 4.3: Early Transfer Learning architectures</a>
+    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_04_00_early_transfer/">Chapter 4.4: Early Transfer Learning architectures</a>
     
       
         <p>Before the use of the Transformer architecture (cf. Chapter 5) for Transfer Learning, two milestone architectures were published.
@@ -110,7 +110,7 @@
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_04_01_elmo/">Chapter 4.3.1: ELMo</a>
+    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_04_01_elmo/">Chapter 4.4.1: ELMo</a>
     
       
         <p>In their paper Deep contextualized word representations, Peters et al. introduced a new class of word embeddings called ELMo (Embeddings from Language Models). Their unique feature is the ability to contextualize the embeddings in a bidirectional fashion (using biLSTMs), i.e. the representation of a word depends on the context on both sides. In order to obtain embeddings, whole sentences have to be fed to this architecture and the retrieved embeddings can then be used for a specific downstream task.
@@ -120,7 +120,7 @@
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_04_02_ulmfit/">Chapter 4.3.2: ULMFiT</a>
+    <a class="title" href="/dl4nlp/chapters/04_transfer_learning/04_04_02_ulmfit/">Chapter 4.4.2: ULMFiT</a>
     
       
         <p>In contrast to ELMo, this architecture is not able to produce bidirectionally contextual embeddings but only unidirectionally contextual ones (since unidirectional LSTM are employed). Apart from this, is relies on a different transfer learning paradigm. Instead of &amp;ldquo;only&amp;rdquo; generating embedding which can be used for downstream tasks, the whole architecture is fine-tuned towards a specific task. Hence the name Universal Language Model Fine-Tuning (ULMFiT).
