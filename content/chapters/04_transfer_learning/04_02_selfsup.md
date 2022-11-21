@@ -16,7 +16,3 @@ It refers to a learning paradigm located somewhere between supervised and unsupe
 ### Lecture Slides
 
 {{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter4-transferlearning/slides-42-selfsup.pdf" >}}
-
-### References 
-
-- [Vaswani et al. (2017)](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
