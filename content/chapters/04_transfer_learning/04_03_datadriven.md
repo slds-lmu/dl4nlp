@@ -2,8 +2,7 @@
 title: "Chapter 4.3: Data-driven tokenization"
 weight: 4030
 ---
-Here we will introduce the concept of Self-Supervision, which is crucial for the current practice of Transfer Learning in NLP.
-It refers to a learning paradigm located somewhere between supervised and unsupervised learning, since it exhibits characterstics of both of them.
+Two of the three currently most frequently used data-driven tokenization algorithms will be introduced in this chapter. The remaining one, BPE, will be covered at the beginning of the next chapter.
 
 <!--more-->
 

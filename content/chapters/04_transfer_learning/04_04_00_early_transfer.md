@@ -1,6 +1,6 @@
 ---
-title: "Chapter 4.3: Early Transfer Learning architectures"
-weight: 4030
+title: "Chapter 4.4: Early Transfer Learning architectures"
+weight: 4040
 ---
 Before the use of the Transformer architecture ([cf. Chapter 5](https://slds-lmu.github.io/dl4nlp/chapters/05_transformer/)) for Transfer Learning, two milestone architectures were published.
 
