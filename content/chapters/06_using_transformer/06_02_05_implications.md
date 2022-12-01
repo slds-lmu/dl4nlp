@@ -16,5 +16,4 @@ This chapter will address the learnings and the implications for future research
 
 ### References 
 
-- [Devlin et al. (2018)](https://arxiv.org/pdf/1810.04805.pdf) - pre-print
-- [Devlin et al. (2019)](https://aclanthology.org/N19-1423.pdf) - peer-reviewed
+- [Rogers et al. (2020)](https://aclanthology.org/2020.tacl-1.54.pdf)
