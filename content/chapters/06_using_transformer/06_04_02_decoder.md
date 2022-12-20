@@ -13,11 +13,9 @@ This chapter will cover a set of transformer-decoder based archtiectures, first 
 
 ### Lecture Slides
 {{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-643-xlnet.pdf" >}} 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-644-gpt2.pdf" >}}   
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-645-gpt3.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-644-gpt2.pdf" >}}  
 
 ### References 
 
 - [Yang et al. (2019)](https://proceedings.neurips.cc/paper/2019/file/dc6a7e655d7e5840e66733e9ee67cc69-Paper.pdf)
 - [Radford et al. (2019)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-- [Brown et al. (2020)](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
