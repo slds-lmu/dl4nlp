@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/dl4nlp/css/style.css">
 
 
-<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 6.4.3: Encoder-Decoder architectures</title>
+<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 6.5: Efficient Transformers</title>
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/dl4nlp/apple-touch-icon.png">
@@ -56,8 +56,9 @@
         
     </nav>
 </div><div id="content" class="container">
-<h1>Chapter 6.4.3: Encoder-Decoder architectures</h1>
-<p>This chapter will cover a set of models using the whole transformer architecture again.</p>
+<h1>Chapter 6.5: Efficient Transformers</h1>
+<p>This chapter will cover a set of models trying to decrease the computational complexity of the self-attention mechanism in the transformer architecture,
+since it represents the backbone of nearly all state-of-the-art models and thus also limits these models to some extent.</p>
 <!--
 ### Lecture video
 <div class="embedded_video">
@@ -66,22 +67,6 @@
 
 -->
 <h3 id="lecture-slides">Lecture Slides</h3>
-<p>
-
-<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.9.359/build/pdf.min.js" integrity="sha256-hEmjt7z3bB53X/awJyV81gmBLpVw2mj7EsvoJelZWow=" crossorigin="anonymous"></script>
-
-
-
-
-  
-  
-  <a href="https://github.com/slds-lmu/lecture_dl4nlp/raw/main/slides/chapter6-usingtrafo/slides-646-t5.pdf">
-    <button class="btn btn-primary" style="margin-bottom:3rem">
-      Download &raquo;slides-646-t5.pdf&laquo;
-    </button>
-  </a>
-
-<br>
 
 
 <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.9.359/build/pdf.min.js" integrity="sha256-hEmjt7z3bB53X/awJyV81gmBLpVw2mj7EsvoJelZWow=" crossorigin="anonymous"></script>
@@ -91,26 +76,24 @@
 
   
   
-  <a href="https://github.com/slds-lmu/lecture_dl4nlp/raw/main/slides/chapter6-usingtrafo/slides-647-t0.pdf">
+  <a href="https://github.com/slds-lmu/lecture_dl4nlp/raw/main/slides/chapter6-usingtrafo/slides-650-efficient.pdf">
     <button class="btn btn-primary" style="margin-bottom:3rem">
-      Download &raquo;slides-647-t0.pdf&laquo;
+      Download &raquo;slides-650-efficient.pdf&laquo;
     </button>
   </a>
 
-</p>
+
 <h3 id="references">References</h3>
 <ul>
-<li><a href="https://arxiv.org/pdf/1910.10683.pdf">Raffel et al. (2019)</a></li>
-<li><a href="https://openreview.net/pdf?id=9Vrb9D0WI4">Sanh et al. (2022)</a></li>
+<li><a href="https://arxiv.org/pdf/2009.06732.pdf">Tay et al. (2020a)</a></li>
+<li><a href="https://arxiv.org/pdf/2011.04006.pdf">Tay et al. (2020b)</a></li>
 </ul>
 
 
 <ul class="section_skipper list-unstyled">
 
-  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/06_using_transformer/06_04_02_decoder/">&#xab; Chapter 6.4.2: Decoder architectures</a></li>
+  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/06_using_transformer/06_04_03_encdec/">&#xab; Chapter 6.4.3: Encoder-Decoder architectures</a></li>
 
-
-  <li id="prev_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/06_using_transformer/06_05_efficient/">Chapter 6.5: Efficient Transformers &#xbb;</a></li>
 
 </ul>
 
