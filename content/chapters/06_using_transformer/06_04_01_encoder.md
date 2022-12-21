@@ -2,18 +2,18 @@
 title: "Chapter 6.4.1: Encoder architectures"
 weight: 6041
 ---
-This chapter will cover a set of transformer-encoder based archtiectures like ELECTRA, ERNIE or BigBird.
+This chapter will cover a set of transformer-encoder based archtiectures like ELECTRA or BigBird. At the moment, there are only slides on ELECTRA, whereas BigBird is still part of the efficient transformers slide deck and will be added here in the future.
 
 <!--more-->
 
 <!--
 ### Lecture video
 {{< video id="TfrSKiOecWI" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-642-bigbird.pdf" >}}
 -->
 
 ### Lecture Slides
 {{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-641-electra.pdf" >}}  
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter6-usingtrafo/slides-642-bigbird.pdf" >}}
 
 ### References 
 
