@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/dl4nlp/css/style.css">
 
 
-<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 4.4: Early Transfer Learning architectures</title>
+<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 4.2: Measuring Performance</title>
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/dl4nlp/apple-touch-icon.png">
@@ -56,18 +56,39 @@
         
     </nav>
 </div><div id="content" class="container">
-<h1>Chapter 4.4: Early Transfer Learning architectures</h1>
-<p>Before the use of the Transformer architecture (<a href="https://slds-lmu.github.io/dl4nlp/chapters/05_transformer/">cf. Chapter 5</a>) for Transfer Learning, two milestone architectures were published.</p>
-<p>Their importance stems from two pioneering paradigms they introduced: ELMo was the first model to learn word embeddings which embraces contextuality in a bidirectional way, meaning that the vector representation of a word depends on both the context on its left as well as the context on its right side.
-The other architecture, ULMFiT, is not only about creating embeddings but (pre-)training a <em>whole architecture</em> which can be adapted to data from the target task or domain.</p>
+<h1>Chapter 4.2: Measuring Performance</h1>
+<p>Here we discuss various ways of measuring the performance of language models.</p>
+<!--
+### Lecture video
+
+<div class="embedded_video">
+  <iframe src="https://www.youtube-nocookie.com/embed/TfrSKiOecWI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+-->
+<h3 id="lecture-slides">Lecture Slides</h3>
+
+
+<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.9.359/build/pdf.min.js" integrity="sha256-hEmjt7z3bB53X/awJyV81gmBLpVw2mj7EsvoJelZWow=" crossorigin="anonymous"></script>
+
+
+
+
+  
+  
+  <a href="https://github.com/slds-lmu/lecture_dl4nlp/raw/main/slides/chapter04-bert/slides-42-metrics.pdf">
+    <button class="btn btn-primary" style="margin-bottom:3rem">
+      Download &raquo;slides-42-metrics.pdf&laquo;
+    </button>
+  </a>
 
 
 <ul class="section_skipper list-unstyled">
 
-  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/04_transfer_learning/04_03_datadriven/">&#xab; Chapter 4.3: Data-driven tokenization</a></li>
+  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/04_bert/04_01_arlm_mlm/">&#xab; Chapter 4.1: ARLMs vs. MLM</a></li>
 
 
-  <li id="prev_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/04_transfer_learning/04_04_01_elmo/">Chapter 4.4.1: ELMo &#xbb;</a></li>
+  <li id="prev_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/04_bert/04_03_corefacts/">Chapter 4.3: The Architecture &#xbb;</a></li>
 
 </ul>
 

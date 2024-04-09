@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/dl4nlp/css/style.css">
 
 
-<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 4.4.2: ULMFiT</title>
+<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 4.1: ARLMs vs. MLM</title>
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/dl4nlp/apple-touch-icon.png">
@@ -56,10 +56,11 @@
         
     </nav>
 </div><div id="content" class="container">
-<h1>Chapter 4.4.2: ULMFiT</h1>
-<p>In contrast to ELMo, this architecture is not able to produce bidirectionally contextual embeddings but only unidirectionally contextual ones (since unidirectional LSTM are employed). Apart from this, is relies on a different transfer learning paradigm. Instead of &ldquo;only&rdquo; generating embedding which can be used for downstream tasks, the whole architecture is <em>fine-tuned</em> towards a specific task. Hence the name <em>U</em>niversal <em>L</em>anguage <em>M</em>odel <em>Fi</em>ne-<em>T</em>uning (ULMFiT).</p>
+<h1>Chapter 4.1: ARLMs vs. MLM</h1>
+<p>This chapter will introduce the concept of self supervision and explain the difference between <strong>A</strong>utoregressive <strong>L</strong>anguage <strong>M</strong>odelling and <strong>M</strong>asked <strong>L</strong>anguage <strong>M</strong>odelling.</p>
 <!--
 ### Lecture video
+
 <div class="embedded_video">
   <iframe src="https://www.youtube-nocookie.com/embed/TfrSKiOecWI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="YouTube Video"></iframe>
 </div>
@@ -75,24 +76,17 @@
 
   
   
-  <a href="https://github.com/slds-lmu/lecture_dl4nlp/raw/main/slides/chapter4-transferlearning/slides-442-ulmfit.pdf">
+  <a href="https://github.com/slds-lmu/lecture_dl4nlp/raw/main/slides/chapter04-bert/slides-41-arlm-mlm.pdf">
     <button class="btn btn-primary" style="margin-bottom:3rem">
-      Download &raquo;slides-442-ulmfit.pdf&laquo;
+      Download &raquo;slides-41-arlm-mlm.pdf&laquo;
     </button>
   </a>
 
 
-<h3 id="references">References</h3>
-<ul>
-<li><a href="https://arxiv.org/pdf/1801.06146.pdf">Howard &amp; Ruder (2018)</a></li>
-<li><a href="https://arxiv.org/pdf/1708.02182.pdf">Merity et al. (2017)</a></li>
-</ul>
-
-
 <ul class="section_skipper list-unstyled">
 
-  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/04_transfer_learning/04_04_01_elmo/">&#xab; Chapter 4.4.1: ELMo</a></li>
 
+  <li id="prev_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/04_bert/04_02_metrics/">Chapter 4.2: Measuring Performance &#xbb;</a></li>
 
 </ul>
 
