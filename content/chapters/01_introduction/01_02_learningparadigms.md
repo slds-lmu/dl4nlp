@@ -9,5 +9,5 @@ This chapter introduces different learning paradigms, such as embeddings, prompt
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter01-basics/slides-11-course-intro.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter01-basics/slides-12-learningparadigms.pdf" >}}
 
