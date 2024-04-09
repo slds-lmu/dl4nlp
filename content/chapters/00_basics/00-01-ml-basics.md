@@ -1,6 +1,6 @@
 ---
-title: "Chapter 1.1: ML Basics (I2ML)"
-weight: 1001
+title: "Chapter 0.1: ML Basics (I2ML)"
+weight: 0001
 ---
 This chapter introduces the basic concepts of Machine Learning. We focus on supervised learning, explain the difference between regression and classification, show how to evaluate and compare Machine Learning models and formalize the concept of learning.
 

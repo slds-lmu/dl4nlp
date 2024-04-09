@@ -1,5 +1,5 @@
 ---
-title: "Chapter 1: Machine Learning Basics"
+title: "Chapter 0: Machine Learning Basics"
 ---
 This chapter introduces the basic concepts of Machine Learning. We therefore rely the excellent material from the [I2ML Course](https://slds-lmu.github.io/i2ml/) which already comes with videos and has been taught LMU numerous times already.  
 The focus of these chapters in on introducing supervised learning, explaining the difference between regression and classification, showing how to evaluate and compare Machine Learning models and formalizing the concept of learning in general.

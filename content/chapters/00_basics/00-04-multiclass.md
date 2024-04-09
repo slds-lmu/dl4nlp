@@ -1,6 +1,6 @@
 ---
-title: "Chapter 1.4: Multiclass Classification (I2ML)"
-weight: 1004
+title: "Chapter 0.4: Multiclass Classification (I2ML)"
+weight: 0004
 ---
 This chapter treats the multiclass case of classification. Tasks with more than two classes preclude the application of some techniques studied in the binary scenario and require an adaptation of loss functions.
 
