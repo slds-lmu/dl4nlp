@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/dl4nlp/css/style.css">
 
 
-<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 3: Advanced neural network architectures</title>
+<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 3: Transformer</title>
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/dl4nlp/apple-touch-icon.png">
@@ -56,12 +56,13 @@
         
     </nav>
 </div><div id="content" class="container">
-<h1>Chapter 3: Advanced neural network architectures</h1>
+<h1>Chapter 3: Transformer</h1>
 
-<p><p>This chapter will introduce both special techniques and architectures for learning embeddings (which are the backbone of basically every NLP algorithm) as well as
-specialized neural architectures. Specifically, we cover convolutional and recurrent networks, including special variants of the latter, and eventually introduce
-the encoder-decoder framework (also w/ attention), which is of great importance for the field.</p>
-</p>
+<p><p>This chapter will introduce the Transformer architecture as introduced in [1]. We explore the different parts of the transformer model (Encoder and Decoder) and discuss ways to improve the architecture, such as Transformer-XL and Efficient Transformers.</p>
+<h3 id="references">References</h3>
+<ul>
+<li>[1] <a href="https://arxiv.org/abs/1706.03762">Vaswani et al., 2017</a></li>
+</ul></p>
 
 
 <div class="chapter_overview">
@@ -69,50 +70,50 @@ the encoder-decoder framework (also w/ attention), which is of great importance 
 
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/03_advanced_nn/03_01_tokenization/">Chapter 3.1: Tokenization</a>
+    <a class="title" href="/dl4nlp/chapters/03_advanced_nn/03_01_intro_trafo/">Chapter 3.1: A universal deep learning architecture</a>
     
       
-        <p>This chapter is about different (basic!) types of text tokenization used in NLP tasks.
+        <p>This chapter briefly introduces different use cases of the Transformer.
 </p>
       
       
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/03_advanced_nn/03_02_embeddings/">Chapter 3.2: Word Embeddings</a>
+    <a class="title" href="/dl4nlp/chapters/03_advanced_nn/03_02_encoder/">Chapter 3.2: The Encoder</a>
     
       
-        <p>This chapter is about the concept of word embeddings and the different methods for creating them.
+        <p>This chapter further elaborates on the Transformer by focusing on the Encoder part and introducing the concepts of self- and cross attention.
 </p>
       
       
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/03_advanced_nn/03_03_cnns/">Chapter 3.3: Convolutional Networks</a>
+    <a class="title" href="/dl4nlp/chapters/03_advanced_nn/03_03_decoder/">Chapter 3.3: The Decoder</a>
     
       
-        <p>This chapter is about Convolutional Neural Networks and their applications.
+        <p>This chapter is about the decoder part of the transformer and masked self attention.
 </p>
       
       
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/03_advanced_nn/03_04_rnns/">Chapter 3.4: Recurrent Networks</a>
+    <a class="title" href="/dl4nlp/chapters/03_advanced_nn/03_04_trafo_xl/">Chapter 3.4: Long Sequences: Transformer-XL</a>
     
       
-        <p>This chapter is about Recurrent Neural Networks and their applications.
+        <p>This chapter is about the Transformer-XL and how it deals with the issue of long sequences.
 </p>
       
       
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/03_advanced_nn/03_05_attention/">Chapter 3.5: Attention</a>
+    <a class="title" href="/dl4nlp/chapters/03_advanced_nn/03_05_efficient/">Chapter 3.5: Efficient Transformers</a>
     
       
-        <p>This chapter is about the attention mechanism and its application in (recurrent) neural networks.
+        <p>This chapter discusses the efficiency problems and shortcomings of transformer-based models and briefly talks about ways to deal with these issues.
 </p>
       
       
