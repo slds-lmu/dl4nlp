@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/dl4nlp/css/style.css">
 
 
-<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 5.5: Transformer-XL</title>
+<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 5.2: BERT-based architectures</title>
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/dl4nlp/apple-touch-icon.png">
@@ -56,12 +56,11 @@
         
     </nav>
 </div><div id="content" class="container">
-<h1>Chapter 5.5: Transformer-XL</h1>
-<p>The Transfomer-XL is motivated by the problem of modeling long sequences with the Transformer architecture. While the computational complexity of the Vanilla Transformer
-scales quadratically with the sequence length (and is this problematic), the authors here propose a segment recurrence mechanism to handle this problem efficiently.
-Further the introduce <em>relative</em> positional encodings (as opposed to absolute ones in the Vanilla Tranformer) to make the segment recurrence work in a meaningful way.</p>
+<h1>Chapter 5.2: BERT-based architectures</h1>
+<p>By changing the pretraining objectives you can create new architectures. Here we introduce RoBERTa and ALBERT.</p>
 <!--
 ### Lecture video
+
 <div class="embedded_video">
   <iframe src="https://www.youtube-nocookie.com/embed/TfrSKiOecWI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="YouTube Video"></iframe>
 </div>
@@ -77,23 +76,19 @@ Further the introduce <em>relative</em> positional encodings (as opposed to abso
 
   
   
-  <a href="https://github.com/slds-lmu/lecture_dl4nlp/raw/main/slides/chapter5-transformer/slides-55-trafo-xl.pdf">
+  <a href="https://github.com/slds-lmu/lecture_dl4nlp/raw/main/slides/chapter05-bert-based/slides-52-bert-based.pdf">
     <button class="btn btn-primary" style="margin-bottom:3rem">
-      Download &raquo;slides-55-trafo-xl.pdf&laquo;
+      Download &raquo;slides-52-bert-based.pdf&laquo;
     </button>
   </a>
 
 
-<h3 id="references">References</h3>
-<ul>
-<li><a href="https://aclanthology.org/P19-1285.pdf">Dai et al. (2019)</a></li>
-</ul>
-
-
 <ul class="section_skipper list-unstyled">
 
-  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/05_transformer/05_04_use_case/">&#xab; Chapter 5.4: Initial Use of the Transformer</a></li>
+  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/05_bert_based/05_01_bertology/">&#xab; Chapter 5.1: Implications for future work &amp; BERTology</a></li>
 
+
+  <li id="prev_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/05_bert_based/05_03_distilbert/">Chapter 5.3: Model distillation &#xbb;</a></li>
 
 </ul>
 
