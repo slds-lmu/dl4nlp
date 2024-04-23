@@ -3,7 +3,7 @@ title: "Chapter 01.03: NLP tasks"
 weight: 1003
 
 ---
-This chapter discusses various NLP tasks of different types (low- vs. high-level) and purely Linguistic task vs. more general classification task.
+Here you will learn about the distinctions between low-level and high-level tasks, as well as the differences between linguistic tasks and broader classification tasks.
 
 <!--more-->
 

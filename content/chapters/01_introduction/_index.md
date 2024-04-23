@@ -1,10 +1,6 @@
 ---
 title: "Chapter 1: Introduction to the course"
 ---
-This chapter gives a quick introduction to the basic concepts of Deep Learning for NLP, such as learning paradigms, tasks, neural probalistic language model and embeddings. A comprehensive introduction is given in [1].
+In this chapter, you'll dive into the fundamental principles of Deep Learning for Natural Language Processing (NLP). Explore key concepts including learning paradigms, various tasks within NLP, the neural probabilistic language model, and the significance of embeddings.
 
 <!--more-->
-
-### References 
-
-- [1] [Goodfellow et al., 2016](https://www.deeplearningbook.org/)
