@@ -58,7 +58,7 @@
 </div><div id="content" class="container">
 <h1>Chapter 2: Deep Learning Basics</h1>
 
-<p><p>This chapter gives a quick introduction to the basic concepts of deep learning in the context of NLP, such as RNN, attention, ELMo and tokenization.</p></p>
+<p><p>In this chapter we explore fundamental concepts like Recurrent Neural Networks (RNNs), the attention mechanism, ELMo embeddings, and tokenization. Each concept serves as a building block in understanding how neural networks can comprehend and generate human language.</p></p>
 
 
 <div class="chapter_overview">
@@ -69,7 +69,7 @@
     <a class="title" href="/dl4nlp/chapters/02_dl_basics/02_01_rnn/">Chapter 02.01: Recurrent Neural Networks</a>
     
       
-        <p>This chapter introduces Recurrent Neural Networks in the context of Language Modelling and discusses different types of RNNs, such as LSTMs and Bidirectional RNNs.
+        <p>Conventional Feed Forward Neural Networks don’t allow us to process sequential data, which is why we need Recurrent Neural Networks (RNNs) to handle text data. In this chapter we also get to know models that help us to overcome the limits of simple RNNs. You will learn about LSTMs and Bidirectional RNNs. LSTMs incorporate different gates that control the information flow of the network and allow us to model long term dependencies. Bidirectional RNNs introduce bidirectionality into the model, which allows it to not only learn from the left side but also from the right side context of sequential data
 </p>
       
       
@@ -79,7 +79,7 @@
     <a class="title" href="/dl4nlp/chapters/02_dl_basics/02_02_attention/">Chapter 02.02 Attention</a>
     
       
-        <p>This chapter provides a first introduction to the Attention mechanism as a way to model long range dependencies.
+        <p>This chapter will give you a first introduction into the concept of Attention, as introduced in [1]. Attention mechanisms allow neural networks to focus on specific parts of the input sequence, assigning varying degrees of importance to different elements, enhancing performance especially in tasks where long-range dependencies are crucial, overcoming limitations of LSTMs and vanilla bidirectional RNNs which struggle with retaining information across long sequences or capturing complex relationships between distant elements. This is achieved by dynamically weighting the importance of different parts of the input sequence during computation, enabling the model to attend to relevant information and effectively process inputs of varying lengths.
 </p>
       
       
@@ -89,7 +89,7 @@
     <a class="title" href="/dl4nlp/chapters/02_dl_basics/02_03_elmo/">Chapter 02.03: ELMo</a>
     
       
-        <p>In this chapter we introduce ELMo, a modelling approach, that enables us to contextualize word embeddings.
+        <p>Here you will learn about ELMo (Embeddings from Language Models) [1], which is a deep contextualized word representation model that generates word embeddings by considering the entire input sentence, capturing complex linguistic features and contextual nuances. It accomplishes this by using a bidirectional LSTM (Long Short-Term Memory) network to generate contextualized word representations, where each word&amp;rsquo;s embedding is dynamically influenced by its surrounding context. This enables ELMo embeddings to capture polysemy, syntactic variations, and semantic nuances that traditional word embeddings like Word2vec or FastText may miss.
 </p>
       
       
@@ -99,7 +99,7 @@
     <a class="title" href="/dl4nlp/chapters/02_dl_basics/02_04_tokenization/">Chapter 02.04 Revisiting words: Tokenization</a>
     
       
-        <p>In order to feed text data into a model we have to tokenize it first. This chapter discusses various types of text tokenization.
+        <p>This chapter is about Tokenization, which is the process of breaking down a sequence of text into smaller, meaningful units, such as words or subwords, to facilitate natural language processing tasks. Various tokenization methods exist, including Byte Pair Encoding (BPE) or WordPiece, each with its own approach to dividing text into tokens. BPE and WordPiece are subword tokenization techniques that iteratively merge frequent character sequences to form larger units, effectively capturing both common words and rare morphological variations.
 </p>
       
       
