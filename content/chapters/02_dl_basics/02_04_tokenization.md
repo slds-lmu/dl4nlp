@@ -2,7 +2,7 @@
 title: "Chapter 02.04 Revisiting words: Tokenization"
 weight: 2004
 ---
-This chapter is about Tokenization, which is the process of breaking down a sequence of text into smaller, meaningful units, such as words or subwords, to facilitate natural language processing tasks. Various tokenization methods exist, including Byte Pair Encoding (BPE) or WordPiece, each with its own approach to dividing text into tokens. BPE and WordPiece are subword tokenization techniques that iteratively merge frequent character sequences to form larger units, effectively capturing both common words and rare morphological variations.
+This chapter is about Tokenization, which is the process of breaking down a sequence of text into smaller, meaningful units, such as words or subwords, to facilitate natural language processing tasks. Various tokenization methods exist, including Byte Pair Encoding (BPE) [1] or WordPiece [2], each with its own approach to dividing text into tokens. BPE and WordPiece are subword tokenization techniques that iteratively merge frequent character sequences to form larger units, effectively capturing both common words and rare morphological variations.
 
 <!--more-->
 
