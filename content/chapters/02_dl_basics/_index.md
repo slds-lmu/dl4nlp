@@ -1,6 +1,6 @@
 ---
 title: "Chapter 2: Deep Learning Basics"
 ---
-This chapter gives a quick introduction to the basic concepts of deep learning in the context of NLP, such as RNN, attention, ELMo and tokenization.
+In this chapter we explore fundamental concepts like Recurrent Neural Networks (RNNs), the attention mechanism, ELMo embeddings, and tokenization. Each concept serves as a building block in understanding how neural networks can comprehend and generate human language.
 
 <!--more-->
