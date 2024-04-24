@@ -2,7 +2,7 @@
 title: "Chapter 4.3: The Architecture"
 weight: 4030
 ---
-In this chapter we explain the architecture of BERT and how it uses the Encoder of the Transformer. 
+The architecture of BERT primarily revolves around transformer encoders, where stacked layers of self-attention mechanisms and feedforward neural networks are employed to generate contextualized representations of tokens in bidirectional context. During pre-training, BERT utilizes masked language modeling (MLM) and next sentence prediction (NSP) tasks to fine-tune the parameters of the transformer encoder layers, enabling the model to effectively capture semantic relationships and contextual nuances in text data. 
 
 <!--more-->
 
@@ -16,4 +16,6 @@ In this chapter we explain the architecture of BERT and how it uses the Encoder 
 
 {{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter04-bert/slides-43-corefacts.pdf" >}}
 
-### References 
+### Additional Resources 
+
+- [Very good video explaining BERT](https://www.youtube.com/watch?v=90mGPxR2GgY)

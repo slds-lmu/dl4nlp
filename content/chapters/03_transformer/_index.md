@@ -12,4 +12,4 @@ The Transformer, as introduced in [1], is a deep learning model architecture spe
 ### Additional Resources 
 
 - [Very good video explaining the Transformer and Attention](https://www.youtube.com/watch?v=bCz4OMemCcA&t)
-- [3Blue1Brown Videoseries about the Transformer](https://www.youtube.com/watch?v=wjZofJX0v4M&t) 
+- [3Blue1Brown Video series about the Transformer](https://www.youtube.com/watch?v=wjZofJX0v4M&t) 
