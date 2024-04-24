@@ -58,8 +58,11 @@
 </div><div id="content" class="container">
 <h1>Chapter 4: BERT</h1>
 
-<p><p>This chapter is introduces <strong>B</strong>idirectional <strong>E</strong>ncoder <strong>R</strong>epresentations from <strong>T</strong>ransformers, a model that uses the Encoder of the Transformer along with Masked Language Modelling and Next Sentence Prediction to achieve bidirectionality.</p>
-<h3 id="references">References</h3></p>
+<p><p>BERT (Bidirectional Encoder Representations from Transformers) [1] is a transformer-based model, designed to generate deep contextualized representations of words by considering bidirectional context, allowing it to capture complex linguistic patterns and context-dependent meanings. It achieves this by pretraining on large text corpora using masked language modeling and next sentence prediction objectives, enabling it to learn rich representations of words that incorporate both left and right context information.</p>
+<h3 id="references">References</h3>
+<ul>
+<li>[1] <a href="https://arxiv.org/abs/1810.04805">Devlin et al., 2019</a></li>
+</ul></p>
 
 
 <div class="chapter_overview">
@@ -70,7 +73,7 @@
     <a class="title" href="/dl4nlp/chapters/04_bert/04_01_arlm_mlm/">Chapter 4.1: ARLMs vs. MLM</a>
     
       
-        <p>This chapter will introduce the concept of self supervision and explain the difference between Autoregressive Language Modelling and Masked Language Modelling.
+        <p>ARLM (Auto-Regressive Language Modeling) and MLM (Masked Language Modeling) are both self-supervised learning objectives used in pretraining transformer-based language models like BERT. ARLM involves predicting the next word in a sequence given the previous context, while MLM involves masking some of the input tokens and predicting them based on the surrounding context. Both methods leverage self-supervision, where the model learns from the data itself without requiring explicit labels, enabling it to capture meaningful representations of language.
 </p>
       
       
@@ -80,7 +83,11 @@
     <a class="title" href="/dl4nlp/chapters/04_bert/04_02_metrics/">Chapter 4.2: Measuring Performance</a>
     
       
-        <p>Here we discuss various ways of measuring the performance of language models.
+        <p>Measuring the performance of language models poses challenges due to the subjective nature of language understanding and generation, as well as the diversity of tasks they are applied to. Performance can be assessed through various metrics including:
+Perplexity: Measures the model&amp;rsquo;s uncertainty in predicting the next word in a sequence, with lower perplexity indicating better performance.
+Accuracy: Measures the proportion of correct predictions made by the model on a classification task.
+BLEU (Bilingual Evaluation Understudy): Evaluates the quality of machine-translated text by comparing it to one or more reference translations.
+ROUGE (Recall-Oriented Understudy for Gisting Evaluation): Measures the overlap between system-generated summaries and reference summaries. However, each metric has its limitations and may not fully capture the model&amp;rsquo;s performance across all tasks and domains, highlighting the difficulty of comprehensive evaluation in natural language processing.
 </p>
       
       
@@ -90,7 +97,7 @@
     <a class="title" href="/dl4nlp/chapters/04_bert/04_03_corefacts/">Chapter 4.3: The Architecture</a>
     
       
-        <p>In this chapter we explain the architecture of BERT and how it uses the Encoder of the Transformer.
+        <p>The architecture of BERT primarily revolves around transformer encoders, where stacked layers of self-attention mechanisms and feedforward neural networks are employed to generate contextualized representations of tokens in bidirectional context. During pre-training, BERT utilizes masked language modeling (MLM) and next sentence prediction (NSP) tasks to fine-tune the parameters of the transformer encoder layers, enabling the model to effectively capture semantic relationships and contextual nuances in text data.
 </p>
       
       
@@ -100,7 +107,7 @@
     <a class="title" href="/dl4nlp/chapters/04_bert/04_04_pretrain_finetune/">Chapter 4.4: Pre-training &amp; Fine-Tuning</a>
     
       
-        <p>This chapter discusses the methods used for pre-training of BERT, such as masked language modelling and next sentence prediction. It also briefly mentions how BERT has been finetuned for different tasks.
+        <p>In the pre-training phase of BERT, the model is trained on large text corpora using self-supervised learning objectives such as masked language modeling (MLM) and next sentence prediction (NSP). During MLM a certain percentage of input tokens are randomly masked and the model is trained to predict the masked tokens based on the surrounding context. In NSP the model learns to predict whether two sentences in a pair are consecutive or not. This pre-training phase allows BERT to learn rich contextual representations of words and sentences. In the fine-tuning phase BERT is adapted to specific downstream tasks by adding task-specific output layers and fine-tuning the pretrained parameters on task-specific labeled data. During fine-tuning only a small portion of the parameters are updated, while the majority of the pretrained parameters remain fixed. This process allows BERT to leverage the general linguistic knowledge learned during pretraining and adapt it to the specific requirements of the downstream tasks, resulting in improved performance on tasks such as text classification, named entity recognition, and question answering.
 </p>
       
       
@@ -110,7 +117,7 @@
     <a class="title" href="/dl4nlp/chapters/04_bert/04_05_transferlearning_selfsup/">Chapter 4.5: Transfer Learning</a>
     
       
-        <p>This chapter briefly introduces the concept of Transfer Learning .
+        <p>Transfer learning is a machine learning approach where knowledge acquired from solving one task is applied to a different but related task, typically using pretrained models. In the context of BERT, transfer learning involves leveraging the pretraining phase where the model learns general language representations on large text corpora, and then fine-tuning these representations on downstream tasks. This allows BERT to transfer the knowledge gained during pre-training to specific tasks, enabling it to achieve better performance with less labeled data compared to training from scratch.
 </p>
       
       
