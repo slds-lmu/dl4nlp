@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4.2: Measuring Performance"
+title: "Chapter 04.02: Measuring Performance"
 weight: 4020
 ---
 Measuring the performance of language models poses challenges due to the subjective nature of language understanding and generation, as well as the diversity of tasks they are applied to.

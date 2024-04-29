@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4.4: Pre-training & Fine-Tuning"
+title: "Chapter 04.04: Pre-training & Fine-Tuning"
 weight: 4040
 ---
 In the pre-training phase of BERT, the model is trained on large text corpora using self-supervised learning objectives such as masked language modeling (MLM) and next sentence prediction (NSP). During MLM a certain percentage of input tokens are randomly masked and the model is trained to predict the masked tokens based on the surrounding context. In NSP the model learns to predict whether two sentences in a pair are consecutive or not. This pre-training phase allows BERT to learn rich contextual representations of words and sentences.
