@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/dl4nlp/css/style.css">
 
 
-<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 6.3: BERT-based architectures</title>
+<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 06.03: Text-to-Text Transfer Transformer</title>
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/dl4nlp/apple-touch-icon.png">
@@ -56,8 +56,9 @@
         
     </nav>
 </div><div id="content" class="container">
-<h1>Chapter 6.3: BERT-based architectures</h1>
-<p>Here we introduce T5 (<strong>T</strong>ext-<strong>T</strong>o-<strong>T</strong>ext <strong>T</strong>ransfer <strong>T</strong>ransformer) a complete encoder-decoder Transformer architecture, which reformulates every task as text-to-text tasks.</p>
+<h1>Chapter 06.03: Text-to-Text Transfer Transformer</h1>
+<p>T5 (Text-To-Text Transfer Transformer) [1] aims to unify various natural language processing tasks by framing them all as text-to-text transformations, simplifying model architectures and enabling flexible training across diverse tasks.
+It achieves this by formulating input-output pairs for different tasks as text sequences, allowing the model to learn to generate target text from source text regardless of the specific task, facilitating multitask learning and transfer learning across tasks with a single, unified architecture.</p>
 <!--
 ### Lecture video
 <div class="embedded_video">
@@ -82,9 +83,19 @@
   </a>
 
 
+<h3 id="references">References</h3>
+<ul>
+<li>[1] <a href="https://arxiv.org/abs/1910.10683">Raffel et al., 2019</a></li>
+</ul>
+<h3 id="additional-resources">Additional Resources</h3>
+<ul>
+<li><a href="https://medium.com/analytics-vidhya/t5-a-detailed-explanation-a0ac9bc53e51">Blogpost about T5</a></li>
+</ul>
+
+
 <ul class="section_skipper list-unstyled">
 
-  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/06_post_bert_t5/06_02_text2text/">&#xab; Chapter 6.2: Tasks as text-to-text problem</a></li>
+  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/06_post_bert_t5/06_02_text2text/">&#xab; Chapter 06.02: Tasks as text-to-text problem</a></li>
 
 
 </ul>
