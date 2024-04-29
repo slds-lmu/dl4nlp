@@ -3,7 +3,7 @@ title: "Chapter 7.4: Tasks & Performance"
 weight: 7004
 ---
 
-GPT-3 has X-shot abilities. This chapters purpose is to illustrate GPT-3's performance in various X-shot setting and to giev an overview on relevant tasks and benchmarks
+GPT-3 has X-shot abilities, meaning it is able to perform tasks with minimal or even no task-specific training data. This chapter provides an overview over various different tasks and illustrates the X-shot capabilities of GPT-3. Additionally you will be introduced to relevant benchmarks.
 
 <!--more-->
 
