@@ -1,8 +1,9 @@
 ---
-title: "Chapter 6.2: Tasks as text-to-text problem"
+title: "Chapter 06.02: Tasks as text-to-text problem"
 weight: 6002
 ---
-BERT has many shortcomings which is why we reformulate every classification task as a text-to-text problem.
+Reformulating various NLP tasks as text-to-text tasks aims to simplify model architectures and improve performance by treating all tasks as instances of generating output text from input text.
+This approach addresses shortcomings of BERT's original design, where different tasks required different output layers and training objectives, leading to a complex multitask learning setup. By unifying tasks under a single text-to-text framework, models can be trained more efficiently and generalize better across diverse tasks and domains.
 
 
 <!--more-->

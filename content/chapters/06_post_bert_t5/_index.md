@@ -1,4 +1,4 @@
 ---
-title: "Chapter 6: Post-BERT Era 2 and using the Transformer "
+title: "Chapter 6: Post-BERT Era II and using the Transformer "
 ---
-Here we further introduce models from the Post-BERT era, such as ELECTRA and XLNet. We also discuss how we can reformulate every task into a text-to-text format and finally introduce the T5 model.
+Here we further introduce models from the Post-BERT era, such as ELECTRA and XLNet. Additionally, we explore the concept of restructuring tasks into a text-to-text format and present the T5 model as a prime example.
