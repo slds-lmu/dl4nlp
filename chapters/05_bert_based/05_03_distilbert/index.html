@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/dl4nlp/css/style.css">
 
 
-<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 5.3: Model distillation</title>
+<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 05.03: Model distillation</title>
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/dl4nlp/apple-touch-icon.png">
@@ -56,8 +56,10 @@
         
     </nav>
 </div><div id="content" class="container">
-<h1>Chapter 5.3: Model distillation</h1>
-<p>This chapter introduces the concept of model distillation as a way to create more efficient models.</p>
+<h1>Chapter 05.03: Model distillation</h1>
+<p>For model distillation, the basic idea is to transfer knowledge from a large, computationally expensive model (e.g., BERT) to a smaller, more efficient model (e.g., DistilBERT) by distilling the large model&rsquo;s knowledge into the smaller one through a process called distillation.
+DistilBERT, as an example, achieves this by first pretraining a large BERT model on a large corpus of text data using standard pre-training objectives. Then, the knowledge learned by the large model is transferred to a smaller, distilled model, such as DistilBERT, by training the smaller model to mimic the behavior of the larger model. This is typically done by minimizing the discrepancy between the probability distributions of the predictions made by the large model and the distilled model on the same input data.
+During this process, unnecessary parameters and redundant information are discarded, resulting in a smaller and more efficient model while retaining much of the performance of the larger model. This allows for faster inference and deployment in resource-constrained environments without sacrificing much in terms of performance. DistilBERT, specifically, achieves a significant reduction in model size and computational cost compared to BERT while maintaining competitive performance across various NLP tasks.</p>
 <!--
 ### Lecture video
 
@@ -83,12 +85,15 @@
   </a>
 
 
-<h3 id="references">References</h3>
+<h3 id="additional-resources">Additional Resources</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=rNOuDKWtrAE">Nice video explaining Model Distillation</a></li>
+</ul>
 
 
 <ul class="section_skipper list-unstyled">
 
-  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/05_bert_based/05_02_bert_based/">&#xab; Chapter 5.2: BERT-based architectures</a></li>
+  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/05_bert_based/05_02_bert_based/">&#xab; Chapter 05.02: BERT-based architectures</a></li>
 
 
 </ul>

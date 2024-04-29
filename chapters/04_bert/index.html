@@ -70,7 +70,7 @@
 
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_bert/04_01_arlm_mlm/">Chapter 4.1: ARLMs vs. MLM</a>
+    <a class="title" href="/dl4nlp/chapters/04_bert/04_01_arlm_mlm/">Chapter 04.01: ARLMs vs. MLM</a>
     
       
         <p>ARLM (Auto-Regressive Language Modeling) and MLM (Masked Language Modeling) are both self-supervised learning objectives used in pretraining transformer-based language models like BERT. ARLM involves predicting the next word in a sequence given the previous context, while MLM involves masking some of the input tokens and predicting them based on the surrounding context. Both methods leverage self-supervision, where the model learns from the data itself without requiring explicit labels, enabling it to capture meaningful representations of language.
@@ -80,7 +80,7 @@
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_bert/04_02_metrics/">Chapter 4.2: Measuring Performance</a>
+    <a class="title" href="/dl4nlp/chapters/04_bert/04_02_metrics/">Chapter 04.02: Measuring Performance</a>
     
       
         <p>Measuring the performance of language models poses challenges due to the subjective nature of language understanding and generation, as well as the diversity of tasks they are applied to. Performance can be assessed through various metrics including:
@@ -94,7 +94,7 @@ ROUGE (Recall-Oriented Understudy for Gisting Evaluation): Measures the overlap 
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_bert/04_03_corefacts/">Chapter 4.3: The Architecture</a>
+    <a class="title" href="/dl4nlp/chapters/04_bert/04_03_corefacts/">Chapter 04.03: The Architecture</a>
     
       
         <p>The architecture of BERT primarily revolves around transformer encoders, where stacked layers of self-attention mechanisms and feedforward neural networks are employed to generate contextualized representations of tokens in bidirectional context. During pre-training, BERT utilizes masked language modeling (MLM) and next sentence prediction (NSP) tasks to fine-tune the parameters of the transformer encoder layers, enabling the model to effectively capture semantic relationships and contextual nuances in text data.
@@ -104,7 +104,7 @@ ROUGE (Recall-Oriented Understudy for Gisting Evaluation): Measures the overlap 
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_bert/04_04_pretrain_finetune/">Chapter 4.4: Pre-training &amp; Fine-Tuning</a>
+    <a class="title" href="/dl4nlp/chapters/04_bert/04_04_pretrain_finetune/">Chapter 04.04: Pre-training &amp; Fine-Tuning</a>
     
       
         <p>In the pre-training phase of BERT, the model is trained on large text corpora using self-supervised learning objectives such as masked language modeling (MLM) and next sentence prediction (NSP). During MLM a certain percentage of input tokens are randomly masked and the model is trained to predict the masked tokens based on the surrounding context. In NSP the model learns to predict whether two sentences in a pair are consecutive or not. This pre-training phase allows BERT to learn rich contextual representations of words and sentences. In the fine-tuning phase BERT is adapted to specific downstream tasks by adding task-specific output layers and fine-tuning the pretrained parameters on task-specific labeled data. During fine-tuning only a small portion of the parameters are updated, while the majority of the pretrained parameters remain fixed. This process allows BERT to leverage the general linguistic knowledge learned during pretraining and adapt it to the specific requirements of the downstream tasks, resulting in improved performance on tasks such as text classification, named entity recognition, and question answering.
@@ -114,7 +114,7 @@ ROUGE (Recall-Oriented Understudy for Gisting Evaluation): Measures the overlap 
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/04_bert/04_05_transferlearning_selfsup/">Chapter 4.5: Transfer Learning</a>
+    <a class="title" href="/dl4nlp/chapters/04_bert/04_05_transferlearning_selfsup/">Chapter 04.05: Transfer Learning</a>
     
       
         <p>Transfer learning is a machine learning approach where knowledge acquired from solving one task is applied to a different but related task, typically using pretrained models. In the context of BERT, transfer learning involves leveraging the pretraining phase where the model learns general language representations on large text corpora, and then fine-tuning these representations on downstream tasks. This allows BERT to transfer the knowledge gained during pre-training to specific tasks, enabling it to achieve better performance with less labeled data compared to training from scratch.
