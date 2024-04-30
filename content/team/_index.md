@@ -6,12 +6,14 @@
   is a Professor at the Department of Statistics at LMU. He is responsible for teaching the machine learning basics.
 - ![](https://www.benjaminroth.net/portrait_small.jpg) [Benjamin Roth](https://dm.cs.univie.ac.at/team/person/112089/)
   is a Professor at the Faculty of Computer Science at the University of Vienna. He created the initial version of this course back in 2019.
+- [Hinrich Schütze](https://www.cis.uni-muenchen.de/personen/professoren/schuetze/)
+  is a Professor at the Center for Information and Language Processing at LMU. He is responsible for most of the content on LLMs.
 - ![](https://raw.githubusercontent.com/slds-lmu/dl4nlp/main/static/andreasstephan.jpg) [Andreas Stephan](https://dm.cs.univie.ac.at/team/person/114424/)
   is a PhD student at Ben's group who joined the team in 2022 and contributed to restructuring and extending the course.
 - ![](https://www.cis.uni-muenchen.de/~weissweiler/util/images/profile.jpg) [Leonie Weißweiler](https://www.cis.uni-muenchen.de/~weissweiler/)
   is a PhD student at the Center for Information and Language Processing at LMU. She created the exercise sheets for the course. She is responsible for restructuring and extending the course as well as for the organization of the course at LMU.
 
-## Acknowledgements
+## Alumni
 
 - Ingo Ziegler and Marwin Härttrich (both 2023 -- 2024) contributed by creating the material for the programming assignments.
 - Erion Çano (2022 -- 2024) contributed to restructuring and extending the course.
@@ -20,8 +22,8 @@
 ## Contributors welcome
 
 __If you want to contribute to this effort, please consider joining the team and email us now:__  
-- LMU: matthias@stat.uni-muenchen.de or weissweiler@cis.lmu.de
-- Univerity of Vienna: andreas.stephan@univie.ac.at or erion.cano@univie.ac.at
+- LMU: matthias@stat.uni-muenchen.de
+- Univerity of Vienna: andreas.stephan@univie.ac.at
 
 Our contributing guidelines may be found [here](https://github.com/slds-lmu/lecture_i2ml/blob/master/CONTRIBUTING.md).
 
