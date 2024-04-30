@@ -34,4 +34,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 We are developing the course on [GitHub](https://github.com/compstat-lmu/lecture_dl4nlp).
 
-We would appreciate if you would contact us in case you are re-using our course. Knowing this helps us to keep the project alive. Thank you!
+We would appreciate if you contact us in case you are re-using our course. Knowing this helps us to keep the project alive. Thank you!
