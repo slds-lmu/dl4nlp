@@ -6,8 +6,6 @@
   is a Professor at the Department of Statistics at LMU. He is responsible for teaching the machine learning basics.
 - ![](https://www.benjaminroth.net/portrait_small.jpg) [Benjamin Roth](https://dm.cs.univie.ac.at/team/person/112089/)
   is a Professor at the Faculty of Computer Science at the University of Vienna. He created the initial version of this course back in 2019.
-- ![](https://raw.githubusercontent.com/slds-lmu/dl4nlp/main/static/dummy.png) [Hinrich Schütze](https://www.cis.uni-muenchen.de/personen/professoren/schuetze/)
-  is a Professor at the Center for Information and Language Processing at LMU. He is responsible for most of the content on LLMs.
 - ![](https://raw.githubusercontent.com/slds-lmu/dl4nlp/main/static/andreasstephan.jpg) [Andreas Stephan](https://dm.cs.univie.ac.at/team/person/114424/)
   is a PhD student at Ben's group who joined the team in 2022 and contributed to restructuring and extending the course.
 - ![](https://www.cis.uni-muenchen.de/~weissweiler/util/images/profile.jpg) [Leonie Weißweiler](https://www.cis.uni-muenchen.de/~weissweiler/)
@@ -34,4 +32,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 We are developing the course on [GitHub](https://github.com/compstat-lmu/lecture_dl4nlp).
 
-We would appreciate if you contact us in case you are re-using our course. Knowing this helps us to keep the project alive. Thank you!
+We would appreciate if you would contact us in case you are re-using our course. Knowing this helps us to keep the project alive. Thank you!
