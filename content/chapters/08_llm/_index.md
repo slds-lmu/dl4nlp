@@ -2,4 +2,4 @@
 title: "Chapter 8: Large Language Models (LLMs)"
 ---
 
-Here we cover Large Language Models and concepts, such as Instruction Fine-Tuning and Chain-of-thought Prompting. 
+In this chapter we cover LLM concepts, such as Instruction Fine-Tuning, Chain-of-Thought prompting and discuss the possbility of emerging abilities of LLMs. 
