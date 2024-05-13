@@ -2,7 +2,7 @@
 title: "Chapter 08.03: Emergent Abilities"
 weight: 8003
 ---
-Various researchers have reported that LLMs seem to have emergent abilities. These are sudden appearances of new abilities when Large Language Models (LLMs) are scaled up. In this section we introduce the concept of emergent abilities and discuss a potential counterargument for the concept of emergence.
+Various researchers have reported that LLMs seem to have emergent abilities. These are sudden appearances of new abilities when Large Language Models (LLMs) are scaled up. In this section we introduce the concept of emergent abilities and discuss a potential counter argument for the concept of emergence.
 
 <!--more-->
 
