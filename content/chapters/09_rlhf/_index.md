@@ -8,7 +8,6 @@ In the context of natural language processing (NLP), RLHF (Reinforcement Learnin
 
 {{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter09-rlhf/slides-91-rlhf.pdf" >}}
 
-
 ### Additional Resources
 
 - [Video Explaining RLHF](https://www.youtube.com/watch?v=qGyFrqc34yc)
