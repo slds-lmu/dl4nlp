@@ -105,7 +105,18 @@
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/03_transformer/03_04_trafo_xl/">Chapter 03.04: Long Sequences: Transformer-XL</a>
+    <a class="title" href="/dl4nlp/chapters/03_transformer/03_04_trafo-params/">Chapter 03.04: Transformer Parameter Count</a>
+    
+      
+        <p>This chapter deals with the number of parameters of the transformer. The parameter count of a transformer model refers to the total number of learnable parameters present in its architecture, which are distributed across various components of the model. These components typically include:
+Embedding Layers: Parameters associated with the input and output embeddings for tokens, which encode their semantic meanings. Encoder Layers: Parameters within each encoder layer, including those associated with self-attention mechanisms, position-wise feedforward networks, and layer normalization. Decoder Layers: Parameters within each decoder layer, including self-attention mechanisms, cross-attention mechanisms, position-wise feedforward networks, and layer normalization. Positional Encodings: Parameters used to encode positional information in the input sequences. The total parameter count of a transformer model is the sum of parameters from all these components, with variations depending on the specific architecture and hyperparameters chosen for the model.
+</p>
+      
+      
+</li>
+
+<li>
+    <a class="title" href="/dl4nlp/chapters/03_transformer/03_05_trafo_xl/">Chapter 03.05: Long Sequences: Transformer-XL</a>
     
       
         <p>This chapter is about the Transformer-XL [1] and how it deals with the issue of long sequences. Transformer-XL is an extension of the original Transformer architecture designed to address the limitations of long-range dependency modeling in sequence-to-sequence tasks. It aims to solve the problem of capturing and retaining information over long sequences by introducing a segment-level recurrence mechanism, enabling the model to process sequences of arbitrary length without being constrained by fixed-length contexts or running into computational limitations. Additionally, Transformer-XL incorporates relative positional embeddings to better capture positional information across segments of varying lengths.
@@ -115,7 +126,7 @@
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/03_transformer/03_05_efficient/">Chapter 03.05: Efficient Transformers</a>
+    <a class="title" href="/dl4nlp/chapters/03_transformer/03_06_efficient/">Chapter 03.06: Efficient Transformers</a>
     
       
         <p>Efficient Transformers are designed to mitigate the computational and memory requirements of standard transformer architectures, particularly when dealing with large-scale datasets or resource-constrained environments. They aim to address issues such as scalability and efficiency in training and inference. One approach used in efficient transformers is replacing the standard self-attention mechanism with more lightweight attention mechanisms, which reduce the computational complexity of attending to long sequences by approximating the attention mechanism with lower-rank matrices or restricting attention to local or sparse regions of the sequence. These approaches enable transformers to be more practical for real-world applications where computational resources are limited.

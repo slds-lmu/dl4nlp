@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/dl4nlp/css/style.css">
 
 
-<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 03.05: Efficient Transformers</title>
+<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 03.05: Long Sequences: Transformer-XL</title>
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/dl4nlp/apple-touch-icon.png">
@@ -56,8 +56,8 @@
         
     </nav>
 </div><div id="content" class="container">
-<h1>Chapter 03.05: Efficient Transformers</h1>
-<p>Efficient Transformers are designed to mitigate the computational and memory requirements of standard transformer architectures, particularly when dealing with large-scale datasets or resource-constrained environments. They aim to address issues such as scalability and efficiency in training and inference. One approach used in efficient transformers is replacing the standard self-attention mechanism with more lightweight attention mechanisms, which reduce the computational complexity of attending to long sequences by approximating the attention mechanism with lower-rank matrices or restricting attention to local or sparse regions of the sequence. These approaches enable transformers to be more practical for real-world applications where computational resources are limited.</p>
+<h1>Chapter 03.05: Long Sequences: Transformer-XL</h1>
+<p>This chapter is about the Transformer-XL [1] and how it deals with the issue of long sequences. Transformer-XL is an extension of the original Transformer architecture designed to address the limitations of long-range dependency modeling in sequence-to-sequence tasks. It aims to solve the problem of capturing and retaining information over long sequences by introducing a segment-level recurrence mechanism, enabling the model to process sequences of arbitrary length without being constrained by fixed-length contexts or running into computational limitations. Additionally, Transformer-XL incorporates relative positional embeddings to better capture positional information across segments of varying lengths.</p>
 <!--
 ### Lecture video
 <div class="embedded_video">
@@ -75,21 +75,25 @@
 
   
   
-  <a href="https://github.com/slds-lmu/lecture_dl4nlp/raw/main/slides/chapter03-transformer/slides-35-efficient.pdf">
+  <a href="https://github.com/slds-lmu/lecture_dl4nlp/raw/main/slides/chapter03-transformer/slides-35-trafo-xl.pdf">
     <button class="btn btn-primary" style="margin-bottom:3rem">
-      Download &raquo;slides-35-efficient.pdf&laquo;
+      Download &raquo;slides-35-trafo-xl.pdf&laquo;
     </button>
   </a>
 
 
-<h3 id="additional-resources">Additional Resources</h3>
-<p><a href="https://huggingface.co/docs/text-generation-inference/conceptual/flash_attention">Blogpost about Flash Attention</a></p>
+<h3 id="references">References</h3>
+<ul>
+<li>[1] <a href="https://arxiv.org/abs/1901.02860">Dai et al., 2019</a></li>
+</ul>
 
 
 <ul class="section_skipper list-unstyled">
 
-  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/03_transformer/03_04_trafo_xl/">&#xab; Chapter 03.04: Long Sequences: Transformer-XL</a></li>
+  <li id="next_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/03_transformer/03_04_trafo-params/">&#xab; Chapter 03.04: Transformer Parameter Count</a></li>
 
+
+  <li id="prev_in_section"><a class="btn btn-primary" href="https://slds-lmu.github.io/dl4nlp/chapters/03_transformer/03_06_efficient/">Chapter 03.06: Efficient Transformers &#xbb;</a></li>
 
 </ul>
 
