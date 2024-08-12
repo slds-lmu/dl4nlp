@@ -1,6 +1,6 @@
 ---
-title: "Chapter 08.01: Instruction Fine-Tuning"
-weight: 8001
+title: "Chapter 09.01: Instruction Fine-Tuning"
+weight: 9001
 ---
 
 Instruction fine-tuning aims to enhance the adaptability of large language models (LLMs) by providing explicit instructions or task descriptions, enabling more precise control over model behavior and adaptation to diverse contexts.
