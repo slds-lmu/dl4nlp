@@ -1,6 +1,6 @@
 ---
-title: "Chapter 11.02: LLM Optimization" 
-weight: 1102
+title: "Chapter 11.04: LLM Optimization" 
+weight: 1104
 ---
 
 In this Chapter we discuss ways to optimize the performance of Large Language Models (LLMs) with methods such as Prompt engineering or methods beyond that.
