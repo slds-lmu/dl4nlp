@@ -70,7 +70,8 @@
     <a class="title" href="/dl4nlp/chapters/08_decoding/08_01_intro/">Chapter 08.01: What is Decoding?</a>
     
       
-        <p></p>
+        <p>Here we introduce the concept of decoding. Given a prompt and a generative language model, how does it generate text? The model produces a probability distribution over all tokens in the vocabulary. The way the model uses that probability distribution to generate the next token is what is called a decoding strategy.
+</p>
       
       
 </li>
@@ -79,7 +80,8 @@
     <a class="title" href="/dl4nlp/chapters/08_decoding/08_02_determ/">Chapter 08.02: Greedy &amp; Beam Search</a>
     
       
-        <p></p>
+        <p>Here we introduce two deterministic decoding strategies, greedy &amp;amp; beam search. Both methods are determenistic, which means there is no sampling involved when generating text. While greedy decoding always chooses the token with the highest probability, while beam search keeps track of multiple beams to generate the next token.
+</p>
       
       
 </li>
@@ -88,7 +90,8 @@
     <a class="title" href="/dl4nlp/chapters/08_decoding/08_03_sampling/">Chapter 08.03: Stochastic Decoding &amp; CS/CD</a>
     
       
-        <p></p>
+        <p>In this chapter you will learn about more methods beyond simple deterministic decoding strategies. We introduce sampling with temperature, where you add a temperature parameter into the softmax formula, top-k [1] and top-p [2] sampling, where you sample from a set of top tokens and finally contrastive search [3] and contrastive decoding [4].
+</p>
       
       
 </li>
@@ -97,16 +100,18 @@
     <a class="title" href="/dl4nlp/chapters/08_decoding/08_04_hyper_param/">Chapter 08.04: Decoding Hyperparameters &amp; Practical considerations</a>
     
       
-        <p></p>
+        <p>In this chapter you will learn how to use the different decoding strategies in practice. When using models from huggingface you can choose the decoding strategy by specifying the hyperparameters of the generate method of those models.
+</p>
       
       
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/08_decoding/08_05_eval_metrics/">Chapter 08.05: Decoding Hyperparameters &amp; Practical considerations</a>
+    <a class="title" href="/dl4nlp/chapters/08_decoding/08_05_eval_metrics/">Chapter 08.05: Evaluation Metrics</a>
     
       
-        <p></p>
+        <p>Here we answer the question on how to evaluate the generated outputs in open ended text generation. We first explain BLEU [1] and ROUGE [2], which are metrics for tasks with a gold reference. Then we introduce diversity, coherence [3] and MAUVE [4], which are metrics for tasks without a gold reference such as open ended text generation. You will also learn about human evaluation.
+</p>
       
       
 </li>
