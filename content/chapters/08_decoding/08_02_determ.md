@@ -2,7 +2,7 @@
 title: "Chapter 08.02: Greedy & Beam Search"
 weight: 8002
 ---
-Here we introduce two deterministic decoding strategies, greedy & beam search. Both methods are determenistic, which means there is no sampling involved when generating text. While greedy decoding always chooses the token with the highest probability, while beam search keeps track of multiple beams to generate the next token.
+Here we introduce two deterministic decoding strategies, greedy & beam search. Both methods are determenistic, which means there is no sampling involved when generating text. While greedy decoding always chooses the token with the highest probability, beam search keeps track of multiple beams to generate the next token.
 
 <!--more-->
 
