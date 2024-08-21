@@ -9,4 +9,4 @@ As we have previously seen, transformers are the working horse for modern NLP. I
 
 ### Lecture Slides 
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter10-multilinguality/slides-103-multilingual-transformers.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter12-multilinguality/slides-123-multilingual-transformers.pdf" >}}

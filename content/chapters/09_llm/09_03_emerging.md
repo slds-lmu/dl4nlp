@@ -8,7 +8,7 @@ Various researchers have reported that LLMs seem to have emergent abilities. The
 
 ### Lecture Slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter08-llm/slides-83-emergent-abilities.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter09-llm/slides-93-emergent-abilities.pdf" >}}
 
 ### Additional Resources
 

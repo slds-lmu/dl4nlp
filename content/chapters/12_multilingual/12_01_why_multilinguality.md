@@ -9,4 +9,4 @@ We need multilingual models to bridge language barriers, enhance global communic
 
 ### Lecture Slides 
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter10-multilinguality/slides-101-why_multilingual.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter12-multilinguality/slides-121-why_multilingual.pdf" >}}

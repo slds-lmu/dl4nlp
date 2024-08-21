@@ -9,7 +9,7 @@ In this chapter you will learn how to use the different decoding strategies in p
 
 ### Lecture Slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter12-decoding/slides-124-hyper-param.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter08-decoding/slides-84-hyper-param.pdf" >}}
 
 ### Additional Resources 
 

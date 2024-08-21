@@ -6,7 +6,7 @@ In the context of natural language processing (NLP), RLHF (Reinforcement Learnin
 
 ### Lecture Slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter09-rlhf/slides-91-rlhf.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter10-rlhf/slides-10-rlhf.pdf" >}}
 
 ### Additional Resources
 

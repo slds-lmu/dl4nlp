@@ -8,7 +8,7 @@ Here we introduce two deterministic decoding strategies, greedy & beam search. B
 
 ### Lecture Slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter12-decoding/slides-122-determ.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter08-decoding/slides-82-determ.pdf" >}}
 
 ### Additional Resources 
 

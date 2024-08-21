@@ -9,7 +9,7 @@ In this chapter you will learn about more methods beyond simple deterministic de
 
 ### Lecture Slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter12-decoding/slides-123-sampling.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter08-decoding/slides-83-sampling.pdf" >}}
 
 ### References
 

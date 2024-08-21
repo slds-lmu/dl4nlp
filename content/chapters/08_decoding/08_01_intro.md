@@ -9,4 +9,4 @@ Here we introduce the concept of decoding. Given a prompt and a generative langu
 
 ### Lecture Slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter12-decoding/slides-121-intro.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter08-decoding/slides-81-intro.pdf" >}}

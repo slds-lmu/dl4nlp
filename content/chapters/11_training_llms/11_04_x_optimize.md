@@ -9,7 +9,7 @@ In this Chapter we discuss ways to optimize the performance of Large Language Mo
 
 ### Lecture Slides 
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter11-training-llms/112-slides-x-optimize.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter11-training-llms/slides-114-x-optimize.pdf" >}}
 
 ### Additional Resources 
 

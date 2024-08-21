@@ -10,7 +10,7 @@ This approach involves fine-tuning LLMs on task-specific instructions or prompts
 
 ### Lecture Slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter08-llm/slides-81-instruction-tuning.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter09-llm/slides-91-instruction-tuning.pdf" >}}
 
 ### Additional Resources
 

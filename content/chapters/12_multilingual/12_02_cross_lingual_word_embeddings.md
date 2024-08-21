@@ -9,4 +9,4 @@ Cross-lingual word embeddings create a shared vector space for words from multip
 
 ### Lecture Slides 
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter10-multilinguality/slides-102-multilingual-wordembs.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter12-multilinguality/slides-122-multilingual-wordembs.pdf" >}}
