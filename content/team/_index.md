@@ -12,6 +12,8 @@
   is a PhD student at Ben's group who joined the team in 2022 and contributed to restructuring and extending the course.
 - ![](https://www.cis.uni-muenchen.de/~weissweiler/util/images/profile.jpg) [Leonie Weißweiler](https://www.cis.uni-muenchen.de/~weissweiler/)
   is a PhD student at the Center for Information and Language Processing at LMU. She created the exercise sheets for the course. She is responsible for restructuring and extending the course as well as for the organization of the course at LMU.
+- ![](https://raw.githubusercontent.com/slds-lmu/dl4nlp/main/static/michi.jpg) [Michael Sawitzki](https://github.com/MikeySaw) 
+  is a LMU Master student in Statistics & Data Science and joined the team in summer 2024. He created the chapter on Decoding and Transformer parameter counts and was responsible for restructuring the website.
 
 ## Alumni
 
