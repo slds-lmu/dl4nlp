@@ -21,7 +21,7 @@ The total parameter count of a transformer model is the sum of parameters from a
 -->
 
 ### Lecture Slides
-{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/chapter11/slides/chapter03-transformer/slides-34-trafo-params.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_dl4nlp/blob/main/slides/chapter03-transformer/slides-34-trafo-params.pdf" >}}
 
 ### Additional Resources
 
