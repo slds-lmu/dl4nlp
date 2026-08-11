@@ -1,5 +1,5 @@
 ---
-title: "Chapter 1: Recap of the transformer"
+title: "Chapter 1: Recap of the Transformer"
 ---
 tbd
 
