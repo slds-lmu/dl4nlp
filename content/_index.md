@@ -11,3 +11,7 @@ One general, important goal of the course - on top of clearly explaining the mos
 The course can be taken as a graduate-level course for Master's level students, both at the University of Munich (LMU) and at the University of Vienna. For the exact details, please refer to the corresponding Moodle pages at either of the two universities.
 
 The course material is developed in a public GitHub repository: https://github.com/slds-lmu/lecture_dl4nlp, where you can also find [the changelog](https://github.com/slds-lmu/lecture_dl4nlp/blob/main/CHANGELOG.md) for the material.
+
+## DL4NLP 2
+
+{{< list-pages section="chapters2" >}}
