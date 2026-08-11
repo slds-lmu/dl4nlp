@@ -14,4 +14,4 @@ The course material is developed in a public GitHub repository: https://github.c
 
 ## DL4NLP 2
 
-{{< section >}}
+{{< list-pages section="chapters2" >}}

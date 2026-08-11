@@ -1,0 +1,9 @@
+{{- $section := .Get "section" | default "chapters" -}}
+{{- $page := site.GetPage "section" $section -}}
+{{- with $page -}}
+<ul>
+  {{- range .Pages.ByWeight }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{- end }}
+</ul>
+{{- end -}}
