@@ -8,7 +8,7 @@ enableRobotsTXT = true
 unsafe= true
 
 [Params]
-  footer = "© 2022 Course Creator"
+  footer = "© 2026 Course Creator"
   logo = "dl4nlp.svg" # file in ./static
   video_base_url = "https://www.youtube-nocookie.com/embed/"
   mathjax = false # has to be enabled for each page or enable it here globally
@@ -20,20 +20,15 @@ unsafe= true
     url = "."
     weight = 1
   [[menu.main]]
-    name = "Chapters"
-    pre = "chapters"
-    url = "chapters/"
+    name = "Chapters (DL4NLP 1)"
+    pre = "chapters1"
+    url = "chapters1/"
     weight = 2
   [[menu.main]]
-    name = "Appendix"
-    pre = "appendix"
-    url = "appendix/"
-    weight = 3
-  [[menu.main]]
-    name = "Team"
-    pre = "team"
-    url = "team/"
-    weight = 3
+    name = "Chapters (DL4NLP 2)"
+    pre = "chapters2"
+    url = "chapters2/"
+    weight = 2
   [[menu.main]]
     name = "Exercises"
     pre = "exercises"
@@ -43,6 +38,11 @@ unsafe= true
     name = "References"
     pre = "references"
     url = "references/"
+    weight = 3
+  [[menu.main]]
+    name = "Team"
+    pre = "team"
+    url = "team/"
     weight = 3
 # can contain as main items as you want
   [[menu.footer]]
