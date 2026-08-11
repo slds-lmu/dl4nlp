@@ -9,9 +9,9 @@
   is a Professor at the Center for Information and Language Processing at LMU. He is responsible for DL4NLP 1 which he is co-teaching with Matthias.
 
 # Alumni
-* _Lecturers_: Christian Heumann (2020 -- 2026), 
-* _PhD Students_: Andeas Stephan (2022 -- 2026), Leonie Weißweiler (2020 -- 2024), Erion Çano (2022 -- 2024), Nina Poerner and Marina Speranskaya (both before 2020)
-* _Student Assistants_: Michael Sawitzki (2024 -- 2025), Ingo Ziegler and Marwin Härttrich (both 2023 -- 2024)
+* _Lecturers_: Christian Heumann (2020 - 2026), 
+* _PhD Students_: Andeas Stephan (2022 - 2026), Leonie Weißweiler (2020 - 2024), Erion Çano (2022 - 2024), Nina Poerner and Marina Speranskaya (both before 2020)
+* _Student Assistants_: Michael Sawitzki (2024 - 2025), Ingo Ziegler and Marwin Härttrich (both 2023 - 2024)
       
 # License
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
