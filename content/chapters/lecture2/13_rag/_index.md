@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3: Retrieval-Augemented Generation"
+title: "Chapter 13: Retrieval-Augemented Generation"
 ---
 Retrieval-Augemented Generation, first introduced in [1], is a technique for increasing a model's knowledge at inference time ...
 
