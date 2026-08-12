@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5: Post-BERT Era"
+title: "Chapter 05: Post-BERT Era"
 ---
 Creating BERT-style encoder models often involved adjusting the pretraining objectives to improve model performance on targeted tasks/domains. These modified pre-training objectives included variations of masked language modeling [1], next sentence prediction [2], other self-supervised learning tasks [3], or distillation [4]  In this chapter you will first learn about four different modifications/improvements of BERT. Subsequently, we will introduce the concept of restructuring tasks into a text-to-text format for true multitask learning and present the T5 model as a prime example [5].
 
