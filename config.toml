@@ -21,8 +21,8 @@ unsafe= true
     weight = 1
   [[menu.main]]
     name = "Chapters (DL4NLP 1)"
-    pre = "chapters/"
-    url = "chapters/"
+    pre = "chapters/lecture1"
+    url = "chapters/lecture1"
     weight = 2
   [[menu.main]]
     name = "Chapters (DL4NLP 2)"
