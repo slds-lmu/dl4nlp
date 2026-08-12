@@ -118,27 +118,17 @@ When taking our DL4NLP course, you do not necessarily have to re-watch all of th
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/lecture1/05_bert_based/">Chapter 5: Post-BERT Era</a>
+    <a class="title" href="/dl4nlp/chapters/lecture1/05_post_bert_t5/">Chapter 5: Post-BERT Era</a>
     
       
-        <p>Creating BERT-based models with modifications to pretraining involves adjusting the pretraining objectives or architecture to suit specific tasks or domains.This process typically begins by designing custom pre-training objectives or modifying existing ones to capture domain-specific characteristics or improve model performance on targeted tasks. These modified pre-training objectives can include variations of masked language modeling (MLM), next sentence prediction (NSP), or other self-supervised learning tasks tailored to the needs of the target domain. After pretraining, the model is fine-tuned on downstream tasks using task-specific data and objectives, enabling it to adapt its learned representations to the specific requirements of the tasks. In this chapter you will learn about three different cases where the existing BERT model has been modified, namely RoBERTa [1], ALBERT [2] and DistillBERT [3].
+        <p>Creating BERT-style encoder models often involved adjusting the pretraining objectives to improve model performance on targeted tasks/domains. These modified pre-training objectives included variations of masked language modeling [1], next sentence prediction [2], other self-supervised learning tasks [3], or distillation [4] In this chapter you will first learn about four different modifications/improvements of BERT. Subsequently, we will introduce the concept of restructuring tasks into a text-to-text format for true multitask learning and present the T5 model as a prime example [5].
 </p>
       
       
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/lecture1/06_post_bert_t5/">Chapter 6: Post-BERT Era II and using the Transformer </a>
-    
-      
-        <p>Here we further introduce models from the Post-BERT era, such as ELECTRA and XLNet. Additionally, we explore the concept of restructuring tasks into a text-to-text format and present the T5 model as a prime example.
-</p>
-      
-      
-</li>
-
-<li>
-    <a class="title" href="/dl4nlp/chapters/lecture1/07_gpt/">Chapter 7: Generative Pre-Trained Transformers</a>
+    <a class="title" href="/dl4nlp/chapters/lecture1/06_gpt/">Chapter 6: Generative Pre-Trained Transformers</a>
     
       
         <p>In this chapter, you will learn about the evolution of the GPT series, spanning from GPT-1 to GPT-3, which revolutionizes natural language processing by employing generative transformer architectures pre-trained on massive text corpora to generate contextually relevant text.
@@ -148,7 +138,7 @@ Additional Resources Overview of GPT-1 until GPT-3 </p>
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/lecture1/08_decoding/">Chapter 8: Decoding Strategies</a>
+    <a class="title" href="/dl4nlp/chapters/lecture1/07_decoding/">Chapter 7: Decoding Strategies</a>
     
       
         <p>This chapter is about various decoding strategies. You will learn about deterministic methods (greedy search, beam search, contrastive search, contrastive decoding) and stochastic methods (top-k, top-p, sampling with temperature). This chapter also covers evaluation metrics for open ended text generation.
@@ -158,7 +148,7 @@ Additional Resources Overview of GPT-1 until GPT-3 </p>
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/lecture1/09_llm/">Chapter 9: Large Language Models (LLMs)</a>
+    <a class="title" href="/dl4nlp/chapters/lecture1/08_llm_intro/">Chapter 8: Large Language Models (LLMs)</a>
     
       
         <p>In this chapter we cover LLM concepts, such as Instruction Fine-Tuning, Chain-of-Thought prompting and discuss the possbility of emerging abilities of LLMs.
@@ -168,7 +158,7 @@ Additional Resources Overview of GPT-1 until GPT-3 </p>
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/lecture1/10_rlhf/">Chapter 10: Reinforcement Learning from Human Feedback (RLHF)</a>
+    <a class="title" href="/dl4nlp/chapters/lecture1/09_instruct_rlhf/">Chapter 9: Reinforcement Learning from Human Feedback (RLHF)</a>
     
       
         <p>In the context of natural language processing (NLP), RLHF (Reinforcement Learning from Human Feedback) involves training language models to generate text or perform tasks based on evaluative signals provided by human annotators or users. This technique allows NLP models to learn from human feedback, such as ratings or corrections, to improve their language understanding, generation, or task performance. By iteratively adjusting model parameters to maximize the reward signal derived from human feedback, RLHF enables models to adapt to specific preferences or requirements, leading to more accurate and contextually relevant outputs in various NLP applications.
@@ -178,7 +168,7 @@ Additional Resources Overview of GPT-1 until GPT-3 </p>
 </li>
 
 <li>
-    <a class="title" href="/dl4nlp/chapters/lecture1/11_training_llms/">Chapter 11: Training Large Language Models</a>
+    <a class="title" href="/dl4nlp/chapters/lecture1/10_training_llms/">Chapter 10: Training Large Language Models</a>
     
       
         <p>In this chapter we cover multiple concepts that deal with training LLMs. You will learn about Transformer computation and scaling laws. In the second chapter we discuss how we can optimize LLM performance.
@@ -203,7 +193,7 @@ Additional Resources Overview of GPT-1 until GPT-3 </p>
 
         </div><footer class="bg-light text-center text-lg-start fixed-bottom">
 <ul class="list-inline text-center">
-  <li class="list-inline-item">© 2026 Course Creator</li>
+  <li class="list-inline-item">© 2026 Course Creators</li>
   
   <li class="list-inline-item"><a class="nav-link" href="https://slds-lmu.github.io/i2ml/" target="_blank">I2ML Course</a></li>
   
