@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/dl4nlp/css/style.css">
+
+
+<title>Deep Learning for Natural Language Processing (DL4NLP) | Chapter 5: Post-BERT Era</title>
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/dl4nlp/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/dl4nlp/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/dl4nlp/favicon-16x16.png">
+<link rel="manifest" href="/dl4nlp/site.webmanifest">
+<link rel="mask-icon" href="/dl4nlp/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+</head><body>
+<img id="logo" src="/dl4nlp/dl4nlp.svg" />
+
+<div id="nav-border" class="container">
+    <nav id="nav" class="nav justify-content-center">
+        
+        <a class="nav-link" href="/dl4nlp">
+        
+        Home
+        </a>
+        
+        <a class="nav-link" href="/dl4nlp/chapters/lecture1">
+        
+        Chapters (DL4NLP 1)
+        </a>
+        
+        <a class="nav-link" href="/dl4nlp/chapters2/lecture2">
+        
+        Chapters (DL4NLP 2)
+        </a>
+        
+        <a class="nav-link" href="/dl4nlp/exercises/">
+        
+        Exercises
+        </a>
+        
+        <a class="nav-link" href="/dl4nlp/references/">
+        
+        References
+        </a>
+        
+        <a class="nav-link" href="/dl4nlp/team/">
+        
+        Team
+        </a>
+        
+    </nav>
+</div><div id="content" class="container">
+<h1>Chapter 5: Post-BERT Era</h1>
+
+<p><p>Creating BERT-based models with modifications to pretraining involves adjusting the pretraining objectives or architecture to suit specific tasks or domains.This process typically begins by designing custom pre-training objectives or modifying existing ones to capture domain-specific characteristics or improve model performance on targeted tasks. These modified pre-training objectives can include variations of masked language modeling (MLM), next sentence prediction (NSP), or other self-supervised learning tasks tailored to the needs of the target domain. After pretraining, the model is fine-tuned on downstream tasks using task-specific data and objectives, enabling it to adapt its learned representations to the specific requirements of the tasks. In this chapter you will learn about three different cases where the existing BERT model has been modified, namely RoBERTa [1], ALBERT [2] and DistillBERT [3].</p>
+<h3 id="references">References</h3>
+<ul>
+<li>[1] <a href="https://arxiv.org/abs/1907.11692">Liu et al., 2019</a></li>
+<li>[2] <a href="https://arxiv.org/abs/1909.11942">Lan et al., 2020</a></li>
+<li>[3] <a href="https://arxiv.org/abs/1910.01108">Sanh et al., 2020</a></li>
+</ul></p>
+
+
+<div class="chapter_overview">
+<ul class="list-unstyled">
+
+
+<li>
+    <a class="title" href="/dl4nlp/chapters/lecture1/05_bert_based/05_01_bertology/">Chapter 05.01: Implications for future work &amp; BERTology</a>
+    
+      
+        <p>BERT (Bidirectional Encoder Representations from Transformers) has significantly impacted research in natural language processing (NLP) by introducing the concept of contextualized word embeddings and demonstrating the effectiveness of large-scale pretraining followed by fine-tuning on downstream tasks. Prior to BERT, models like Word2vec and fasttext generated static word embeddings that lacked context, limiting their ability to capture the nuances of language. BERT&rsquo;s bidirectional approach to pretraining allowed it to capture rich contextual information, leading to substantial improvements in performance across a wide range of NLP tasks. Additionally, the widespread adoption of BERT sparked a new area of research known as &ldquo;BERTology,&rdquo; which focuses on understanding the inner workings of transformer-based models like BERT through empirical analysis, ablation studies, and probing experiments. This research has led to deeper insights into the mechanisms underlying these models and has inspired further innovations in model architectures, pre-training objectives, and fine-tuning strategies in NLP.
+</p>
+      
+      
+</li>
+
+<li>
+    <a class="title" href="/dl4nlp/chapters/lecture1/05_bert_based/05_02_bert_based/">Chapter 05.02: BERT-based architectures</a>
+    
+      
+        <p>For RoBERTa (Robustly optimized BERT approach), the basic idea is to improve upon the BERT architecture by training on more data with longer sequences, removing the next sentence prediction (NSP) objective, and utilizing dynamic masking during pretraining to enhance robustness and performance. RoBERTa achieves this by pretraining on a larger corpus of text data with more training steps, larger batch sizes, and longer sequences compared to BERT. Additionally, it removes the NSP objective and employs dynamic masking, where masking patterns are dynamically sampled for each training instance, allowing the model to see different masked tokens across multiple epochs. This approach enhances the model&rsquo;s ability to capture contextual information and improves performance on various natural language understanding tasks.
+As for ALBERT (A Lite BERT), the basic idea is to reduce the computational complexity of BERT while maintaining or improving performance by introducing parameter-sharing techniques and factorized embedding parameterization. ALBERT achieves this by factorizing the embedding parameters and sharing them across layers, reducing the number of parameters and computational cost. These innovations enable ALBERT to achieve similar or better performance than BERT while being more memory-efficient and scalable, making it suitable for a wider range of applications and deployment scenarios.
+</p>
+      
+      
+</li>
+
+<li>
+    <a class="title" href="/dl4nlp/chapters/lecture1/05_bert_based/05_03_distilbert/">Chapter 05.03: Model distillation</a>
+    
+      
+        <p>For model distillation, the basic idea is to transfer knowledge from a large, computationally expensive model (e.g., BERT) to a smaller, more efficient model (e.g., DistilBERT) by distilling the large model&rsquo;s knowledge into the smaller one through a process called distillation. DistilBERT, as an example, achieves this by first pretraining a large BERT model on a large corpus of text data using standard pre-training objectives. Then, the knowledge learned by the large model is transferred to a smaller, distilled model, such as DistilBERT, by training the smaller model to mimic the behavior of the larger model. This is typically done by minimizing the discrepancy between the probability distributions of the predictions made by the large model and the distilled model on the same input data. During this process, unnecessary parameters and redundant information are discarded, resulting in a smaller and more efficient model while retaining much of the performance of the larger model. This allows for faster inference and deployment in resource-constrained environments without sacrificing much in terms of performance. DistilBERT, specifically, achieves a significant reduction in model size and computational cost compared to BERT while maintaining competitive performance across various NLP tasks.
+</p>
+      
+      
+</li>
+
+
+</ul>
+</div>
+
+
+        </div><footer class="bg-light text-center text-lg-start fixed-bottom">
+<ul class="list-inline text-center">
+  <li class="list-inline-item">© 2026 Course Creator</li>
+  
+  <li class="list-inline-item"><a class="nav-link" href="https://slds-lmu.github.io/i2ml/" target="_blank">I2ML Course</a></li>
+  
+  <li class="list-inline-item"><a class="nav-link" href="https://github.com/slds-lmu/lecture_dl4nlp" target="_blank">Material Source Code</a></li>
+  
+  <li class="list-inline-item"><a class="nav-link" href="https://github.com/slds-lmu/dl4nlp" target="_blank">Website source code</a></li>
+  
+</ul>
+</footer>
+
+
+
+</body>
+</html>
