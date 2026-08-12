@@ -22,12 +22,12 @@ unsafe= true
   [[menu.main]]
     name = "Chapters (DL4NLP 1)"
     pre = "chapters"
-    url = "chapters/"
+    url = "chapters/lecture1"
     weight = 2
   [[menu.main]]
     name = "Chapters (DL4NLP 2)"
-    pre = "chapters2"
-    url = "chapters2/"
+    pre = "chapters"
+    url = "chapters2/lecture2"
     weight = 2
   [[menu.main]]
     name = "Exercises"
