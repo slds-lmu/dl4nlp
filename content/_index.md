@@ -12,6 +12,10 @@ The course can be taken as a graduate-level course for Master's level students, 
 
 The course material is developed in a public GitHub repository: https://github.com/slds-lmu/lecture_dl4nlp, where you can also find [the changelog](https://github.com/slds-lmu/lecture_dl4nlp/blob/main/CHANGELOG.md) for the material.
 
+<!--
+
 ## DL4NLP 2
 
 {{< list-pages section="chapters2" >}}
+
+-->

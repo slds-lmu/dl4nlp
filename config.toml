@@ -8,7 +8,7 @@ enableRobotsTXT = true
 unsafe= true
 
 [Params]
-  footer = "© 2026 Course Creator"
+  footer = "© 2026 Course Creators"
   logo = "dl4nlp.svg" # file in ./static
   video_base_url = "https://www.youtube-nocookie.com/embed/"
   mathjax = false # has to be enabled for each page or enable it here globally
