@@ -1,3 +1,3 @@
 ---
-title: "Chapter 18: Reasoning"
+title: "Chapter 18: Reasoning and Agents"
 ---
